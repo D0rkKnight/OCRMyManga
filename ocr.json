@@ -1,0 +1,97 @@
+[locale: "en"
+description: "Wake up human!"
+bounding_poly {
+  vertices {
+    x: 27
+    y: 396
+  }
+  vertices {
+    x: 573
+    y: 396
+  }
+  vertices {
+    x: 573
+    y: 460
+  }
+  vertices {
+    x: 27
+    y: 460
+  }
+}
+, description: "Wake"
+bounding_poly {
+  vertices {
+    x: 27
+    y: 396
+  }
+  vertices {
+    x: 210
+    y: 396
+  }
+  vertices {
+    x: 210
+    y: 460
+  }
+  vertices {
+    x: 27
+    y: 460
+  }
+}
+, description: "up"
+bounding_poly {
+  vertices {
+    x: 228
+    y: 396
+  }
+  vertices {
+    x: 305
+    y: 396
+  }
+  vertices {
+    x: 305
+    y: 460
+  }
+  vertices {
+    x: 228
+    y: 460
+  }
+}
+, description: "human"
+bounding_poly {
+  vertices {
+    x: 325
+    y: 396
+  }
+  vertices {
+    x: 546
+    y: 396
+  }
+  vertices {
+    x: 546
+    y: 460
+  }
+  vertices {
+    x: 325
+    y: 460
+  }
+}
+, description: "!"
+bounding_poly {
+  vertices {
+    x: 548
+    y: 396
+  }
+  vertices {
+    x: 573
+    y: 396
+  }
+  vertices {
+    x: 573
+    y: 460
+  }
+  vertices {
+    x: 548
+    y: 460
+  }
+}
+]
