@@ -5,6 +5,6 @@ cred*.json
 keys*.json
 ```
 
-out/*
-resources/*
+# out/*
+# resources/*
 legacy
