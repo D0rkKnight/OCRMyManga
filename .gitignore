@@ -2,6 +2,7 @@
 ocrmymanga*.json
 env
 cred*.json
+keys*.json
 ```
 
 out/BSD
