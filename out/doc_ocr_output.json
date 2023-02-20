@@ -1,0 +1,8700 @@
+pages {
+  property {
+    detected_languages {
+      language_code: "ja"
+      confidence: 0.685735822
+    }
+    detected_languages {
+      language_code: "en"
+      confidence: 0.0859120414
+    }
+  }
+  width: 490
+  height: 717
+  blocks {
+    bounding_box {
+      vertices {
+        x: 281
+        y: 27
+      }
+      vertices {
+        x: 289
+        y: 26
+      }
+      vertices {
+        x: 292
+        y: 53
+      }
+      vertices {
+        x: 284
+        y: 54
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 281
+          y: 27
+        }
+        vertices {
+          x: 289
+          y: 26
+        }
+        vertices {
+          x: 292
+          y: 53
+        }
+        vertices {
+          x: 284
+          y: 54
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 281
+            y: 27
+          }
+          vertices {
+            x: 289
+            y: 26
+          }
+          vertices {
+            x: 292
+            y: 53
+          }
+          vertices {
+            x: 284
+            y: 54
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 282
+              y: 27
+            }
+            vertices {
+              x: 289
+              y: 26
+            }
+            vertices {
+              x: 290
+              y: 38
+            }
+            vertices {
+              x: 283
+              y: 39
+            }
+          }
+          text: "こ"
+          confidence: 0.891744077
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 283
+              y: 42
+            }
+            vertices {
+              x: 290
+              y: 41
+            }
+            vertices {
+              x: 291
+              y: 53
+            }
+            vertices {
+              x: 284
+              y: 54
+            }
+          }
+          text: "の"
+          confidence: 0.910039127
+        }
+        confidence: 0.900891602
+      }
+      confidence: 0.900891602
+    }
+    block_type: TEXT
+    confidence: 0.900891602
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 274
+        y: 35
+      }
+      vertices {
+        x: 275
+        y: 104
+      }
+      vertices {
+        x: 268
+        y: 104
+      }
+      vertices {
+        x: 267
+        y: 35
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 274
+          y: 35
+        }
+        vertices {
+          x: 275
+          y: 104
+        }
+        vertices {
+          x: 268
+          y: 104
+        }
+        vertices {
+          x: 267
+          y: 35
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 274
+            y: 35
+          }
+          vertices {
+            x: 274
+            y: 46
+          }
+          vertices {
+            x: 268
+            y: 46
+          }
+          vertices {
+            x: 268
+            y: 35
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 35
+            }
+            vertices {
+              x: 274
+              y: 41
+            }
+            vertices {
+              x: 268
+              y: 41
+            }
+            vertices {
+              x: 268
+              y: 35
+            }
+          }
+          text: "ほ"
+          confidence: 0.937013686
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 40
+            }
+            vertices {
+              x: 274
+              y: 46
+            }
+            vertices {
+              x: 268
+              y: 46
+            }
+            vertices {
+              x: 268
+              y: 40
+            }
+          }
+          text: "う"
+          confidence: 0.98413372
+        }
+        confidence: 0.960573673
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 274
+            y: 48
+          }
+          vertices {
+            x: 274
+            y: 71
+          }
+          vertices {
+            x: 268
+            y: 71
+          }
+          vertices {
+            x: 268
+            y: 48
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 48
+            }
+            vertices {
+              x: 274
+              y: 53
+            }
+            vertices {
+              x: 268
+              y: 53
+            }
+            vertices {
+              x: 268
+              y: 48
+            }
+          }
+          text: "た"
+          confidence: 0.974832237
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 55
+            }
+            vertices {
+              x: 274
+              y: 59
+            }
+            vertices {
+              x: 268
+              y: 59
+            }
+            vertices {
+              x: 268
+              y: 55
+            }
+          }
+          text: "い"
+          confidence: 0.98149395
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 64
+            }
+            vertices {
+              x: 274
+              y: 71
+            }
+            vertices {
+              x: 268
+              y: 71
+            }
+            vertices {
+              x: 268
+              y: 64
+            }
+          }
+          text: "む"
+          confidence: 0.406213671
+        }
+        confidence: 0.787513256
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 274
+            y: 79
+          }
+          vertices {
+            x: 274
+            y: 86
+          }
+          vertices {
+            x: 268
+            y: 86
+          }
+          vertices {
+            x: 268
+            y: 79
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 79
+            }
+            vertices {
+              x: 274
+              y: 86
+            }
+            vertices {
+              x: 268
+              y: 86
+            }
+            vertices {
+              x: 268
+              y: 79
+            }
+          }
+          text: "だ"
+          confidence: 0.395729631
+        }
+        confidence: 0.395729631
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 274
+            y: 92
+          }
+          vertices {
+            x: 274
+            y: 104
+          }
+          vertices {
+            x: 268
+            y: 104
+          }
+          vertices {
+            x: 268
+            y: 92
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 274
+              y: 92
+            }
+            vertices {
+              x: 274
+              y: 98
+            }
+            vertices {
+              x: 268
+              y: 98
+            }
+            vertices {
+              x: 268
+              y: 92
+            }
+          }
+          text: "づ"
+          confidence: 0.429824144
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 274
+              y: 98
+            }
+            vertices {
+              x: 274
+              y: 104
+            }
+            vertices {
+              x: 268
+              y: 104
+            }
+            vertices {
+              x: 268
+              y: 98
+            }
+          }
+          text: "か"
+          confidence: 0.538598597
+        }
+        confidence: 0.484211385
+      }
+      confidence: 0.705979943
+    }
+    block_type: TEXT
+    confidence: 0.705979943
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 251
+        y: 34
+      }
+      vertices {
+        x: 266
+        y: 34
+      }
+      vertices {
+        x: 267
+        y: 158
+      }
+      vertices {
+        x: 252
+        y: 158
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 251
+          y: 34
+        }
+        vertices {
+          x: 266
+          y: 34
+        }
+        vertices {
+          x: 267
+          y: 158
+        }
+        vertices {
+          x: 252
+          y: 158
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 252
+            y: 34
+          }
+          vertices {
+            x: 266
+            y: 34
+          }
+          vertices {
+            x: 266
+            y: 61
+          }
+          vertices {
+            x: 252
+            y: 61
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 34
+            }
+            vertices {
+              x: 266
+              y: 34
+            }
+            vertices {
+              x: 266
+              y: 47
+            }
+            vertices {
+              x: 252
+              y: 47
+            }
+          }
+          text: "包"
+          confidence: 0.980027378
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 49
+            }
+            vertices {
+              x: 266
+              y: 49
+            }
+            vertices {
+              x: 266
+              y: 61
+            }
+            vertices {
+              x: 252
+              y: 61
+            }
+          }
+          text: "帯"
+          confidence: 0.982655
+        }
+        confidence: 0.981341183
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 252
+            y: 63
+          }
+          vertices {
+            x: 266
+            y: 63
+          }
+          vertices {
+            x: 267
+            y: 118
+          }
+          vertices {
+            x: 253
+            y: 118
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 63
+            }
+            vertices {
+              x: 266
+              y: 63
+            }
+            vertices {
+              x: 266
+              y: 75
+            }
+            vertices {
+              x: 252
+              y: 75
+            }
+          }
+          text: "無"
+          confidence: 0.986079574
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 78
+            }
+            vertices {
+              x: 266
+              y: 78
+            }
+            vertices {
+              x: 266
+              y: 90
+            }
+            vertices {
+              x: 252
+              y: 90
+            }
+          }
+          text: "駄"
+          confidence: 0.968551278
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 91
+            }
+            vertices {
+              x: 266
+              y: 91
+            }
+            vertices {
+              x: 266
+              y: 104
+            }
+            vertices {
+              x: 252
+              y: 104
+            }
+          }
+          text: "遣"
+          confidence: 0.962697804
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 107
+            }
+            vertices {
+              x: 266
+              y: 107
+            }
+            vertices {
+              x: 266
+              y: 118
+            }
+            vertices {
+              x: 252
+              y: 118
+            }
+          }
+          text: "い"
+          confidence: 0.973283291
+        }
+        confidence: 0.972653
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 252
+            y: 120
+          }
+          vertices {
+            x: 266
+            y: 120
+          }
+          vertices {
+            x: 266
+            y: 147
+          }
+          vertices {
+            x: 252
+            y: 147
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 120
+            }
+            vertices {
+              x: 266
+              y: 120
+            }
+            vertices {
+              x: 266
+              y: 132
+            }
+            vertices {
+              x: 252
+              y: 132
+            }
+          }
+          text: "装"
+          confidence: 0.973460793
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 252
+              y: 134
+            }
+            vertices {
+              x: 266
+              y: 134
+            }
+            vertices {
+              x: 266
+              y: 147
+            }
+            vertices {
+              x: 252
+              y: 147
+            }
+          }
+          text: "置"
+          confidence: 0.983077168
+        }
+        confidence: 0.978269
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 253
+            y: 149
+          }
+          vertices {
+            x: 267
+            y: 149
+          }
+          vertices {
+            x: 267
+            y: 158
+          }
+          vertices {
+            x: 253
+            y: 158
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 253
+              y: 149
+            }
+            vertices {
+              x: 267
+              y: 149
+            }
+            vertices {
+              x: 267
+              y: 158
+            }
+            vertices {
+              x: 253
+              y: 158
+            }
+          }
+          text: "!"
+          confidence: 0.931276917
+        }
+        confidence: 0.931276917
+      }
+      confidence: 0.971234381
+    }
+    block_type: TEXT
+    confidence: 0.971234381
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 404
+        y: 356
+      }
+      vertices {
+        x: 417
+        y: 356
+      }
+      vertices {
+        x: 417
+        y: 397
+      }
+      vertices {
+        x: 404
+        y: 397
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 414
+          y: 380
+        }
+        vertices {
+          x: 417
+          y: 380
+        }
+        vertices {
+          x: 417
+          y: 396
+        }
+        vertices {
+          x: 414
+          y: 396
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 414
+            y: 380
+          }
+          vertices {
+            x: 417
+            y: 380
+          }
+          vertices {
+            x: 417
+            y: 396
+          }
+          vertices {
+            x: 414
+            y: 396
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 414
+              y: 380
+            }
+            vertices {
+              x: 417
+              y: 380
+            }
+            vertices {
+              x: 417
+              y: 386
+            }
+            vertices {
+              x: 414
+              y: 386
+            }
+          }
+          text: "だ"
+          confidence: 0.703250825
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 414
+              y: 392
+            }
+            vertices {
+              x: 417
+              y: 392
+            }
+            vertices {
+              x: 417
+              y: 396
+            }
+            vertices {
+              x: 414
+              y: 396
+            }
+          }
+          text: "ん"
+          confidence: 0.722606361
+        }
+        confidence: 0.712928593
+      }
+      confidence: 0.712928593
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 404
+          y: 356
+        }
+        vertices {
+          x: 413
+          y: 356
+        }
+        vertices {
+          x: 413
+          y: 397
+        }
+        vertices {
+          x: 404
+          y: 397
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 405
+            y: 356
+          }
+          vertices {
+            x: 413
+            y: 356
+          }
+          vertices {
+            x: 413
+            y: 359
+          }
+          vertices {
+            x: 405
+            y: 359
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 405
+              y: 356
+            }
+            vertices {
+              x: 413
+              y: 356
+            }
+            vertices {
+              x: 413
+              y: 359
+            }
+            vertices {
+              x: 405
+              y: 359
+            }
+          }
+          text: "・"
+          confidence: 0.190215915
+        }
+        confidence: 0.190215915
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 404
+            y: 359
+          }
+          vertices {
+            x: 412
+            y: 359
+          }
+          vertices {
+            x: 412
+            y: 387
+          }
+          vertices {
+            x: 404
+            y: 387
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 404
+              y: 359
+            }
+            vertices {
+              x: 412
+              y: 359
+            }
+            vertices {
+              x: 412
+              y: 368
+            }
+            vertices {
+              x: 404
+              y: 368
+            }
+          }
+          text: "国"
+          confidence: 0.832456052
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 404
+              y: 368
+            }
+            vertices {
+              x: 412
+              y: 368
+            }
+            vertices {
+              x: 412
+              y: 376
+            }
+            vertices {
+              x: 404
+              y: 376
+            }
+          }
+          text: "木"
+          confidence: 0.928717494
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 404
+              y: 379
+            }
+            vertices {
+              x: 412
+              y: 379
+            }
+            vertices {
+              x: 412
+              y: 387
+            }
+            vertices {
+              x: 404
+              y: 387
+            }
+          }
+          text: "田"
+          confidence: 0.986984491
+        }
+        confidence: 0.916052699
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 404
+            y: 389
+          }
+          vertices {
+            x: 412
+            y: 389
+          }
+          vertices {
+            x: 412
+            y: 397
+          }
+          vertices {
+            x: 404
+            y: 397
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 404
+              y: 389
+            }
+            vertices {
+              x: 412
+              y: 389
+            }
+            vertices {
+              x: 412
+              y: 397
+            }
+            vertices {
+              x: 404
+              y: 397
+            }
+          }
+          text: "君"
+          confidence: 0.961247265
+        }
+        confidence: 0.961247265
+      }
+      confidence: 0.779924273
+    }
+    block_type: TEXT
+    confidence: 0.760782599
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 375
+        y: 339
+      }
+      vertices {
+        x: 410
+        y: 339
+      }
+      vertices {
+        x: 410
+        y: 397
+      }
+      vertices {
+        x: 375
+        y: 397
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 408
+          y: 339
+        }
+        vertices {
+          x: 410
+          y: 339
+        }
+        vertices {
+          x: 410
+          y: 357
+        }
+        vertices {
+          x: 408
+          y: 357
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 408
+            y: 339
+          }
+          vertices {
+            x: 410
+            y: 339
+          }
+          vertices {
+            x: 410
+            y: 357
+          }
+          vertices {
+            x: 408
+            y: 357
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 409
+              y: 339
+            }
+            vertices {
+              x: 410
+              y: 339
+            }
+            vertices {
+              x: 410
+              y: 342
+            }
+            vertices {
+              x: 409
+              y: 342
+            }
+          }
+          text: "*"
+          confidence: 0.377313584
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 408
+              y: 342
+            }
+            vertices {
+              x: 409
+              y: 342
+            }
+            vertices {
+              x: 409
+              y: 345
+            }
+            vertices {
+              x: 408
+              y: 345
+            }
+          }
+          text: "*"
+          confidence: 0.409996897
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 408
+              y: 345
+            }
+            vertices {
+              x: 409
+              y: 345
+            }
+            vertices {
+              x: 409
+              y: 348
+            }
+            vertices {
+              x: 408
+              y: 348
+            }
+          }
+          text: "*"
+          confidence: 0.359520584
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 408
+              y: 349
+            }
+            vertices {
+              x: 409
+              y: 349
+            }
+            vertices {
+              x: 409
+              y: 352
+            }
+            vertices {
+              x: 408
+              y: 352
+            }
+          }
+          text: "*"
+          confidence: 0.347976267
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 408
+              y: 352
+            }
+            vertices {
+              x: 409
+              y: 352
+            }
+            vertices {
+              x: 409
+              y: 354
+            }
+            vertices {
+              x: 408
+              y: 354
+            }
+          }
+          text: "*"
+          confidence: 0.631111443
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 408
+              y: 354
+            }
+            vertices {
+              x: 409
+              y: 354
+            }
+            vertices {
+              x: 409
+              y: 357
+            }
+            vertices {
+              x: 408
+              y: 357
+            }
+          }
+          text: "*"
+          confidence: 0.558187664
+        }
+        confidence: 0.447351068
+      }
+      confidence: 0.447351068
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 391
+          y: 340
+        }
+        vertices {
+          x: 398
+          y: 340
+        }
+        vertices {
+          x: 398
+          y: 388
+        }
+        vertices {
+          x: 391
+          y: 388
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 391
+            y: 340
+          }
+          vertices {
+            x: 398
+            y: 340
+          }
+          vertices {
+            x: 398
+            y: 349
+          }
+          vertices {
+            x: 391
+            y: 349
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 391
+              y: 340
+            }
+            vertices {
+              x: 398
+              y: 340
+            }
+            vertices {
+              x: 398
+              y: 349
+            }
+            vertices {
+              x: 391
+              y: 349
+            }
+          }
+          text: "今"
+          confidence: 0.975125
+        }
+        confidence: 0.975125
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 391
+            y: 352
+          }
+          vertices {
+            x: 398
+            y: 352
+          }
+          vertices {
+            x: 398
+            y: 358
+          }
+          vertices {
+            x: 391
+            y: 358
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 391
+              y: 352
+            }
+            vertices {
+              x: 398
+              y: 352
+            }
+            vertices {
+              x: 398
+              y: 358
+            }
+            vertices {
+              x: 391
+              y: 358
+            }
+          }
+          text: "の"
+          confidence: 0.990255117
+        }
+        confidence: 0.990255117
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 391
+            y: 361
+          }
+          vertices {
+            x: 398
+            y: 361
+          }
+          vertices {
+            x: 398
+            y: 379
+          }
+          vertices {
+            x: 391
+            y: 379
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 391
+              y: 361
+            }
+            vertices {
+              x: 398
+              y: 361
+            }
+            vertices {
+              x: 398
+              y: 369
+            }
+            vertices {
+              x: 391
+              y: 369
+            }
+          }
+          text: "呼"
+          confidence: 0.984503448
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 391
+              y: 370
+            }
+            vertices {
+              x: 398
+              y: 370
+            }
+            vertices {
+              x: 398
+              y: 379
+            }
+            vertices {
+              x: 391
+              y: 379
+            }
+          }
+          text: "称"
+          confidence: 0.985702217
+        }
+        confidence: 0.985102832
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 391
+            y: 382
+          }
+          vertices {
+            x: 398
+            y: 382
+          }
+          vertices {
+            x: 398
+            y: 388
+          }
+          vertices {
+            x: 391
+            y: 388
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 391
+              y: 382
+            }
+            vertices {
+              x: 398
+              y: 382
+            }
+            vertices {
+              x: 398
+              y: 388
+            }
+            vertices {
+              x: 391
+              y: 388
+            }
+          }
+          text: "は"
+          confidence: 0.944557548
+        }
+        confidence: 0.944557548
+      }
+      confidence: 0.976028681
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 375
+          y: 339
+        }
+        vertices {
+          x: 382
+          y: 339
+        }
+        vertices {
+          x: 381
+          y: 397
+        }
+        vertices {
+          x: 374
+          y: 397
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 375
+            y: 339
+          }
+          vertices {
+            x: 382
+            y: 339
+          }
+          vertices {
+            x: 382
+            y: 356
+          }
+          vertices {
+            x: 375
+            y: 356
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 375
+              y: 339
+            }
+            vertices {
+              x: 382
+              y: 339
+            }
+            vertices {
+              x: 382
+              y: 346
+            }
+            vertices {
+              x: 375
+              y: 346
+            }
+          }
+          text: "ど"
+          confidence: 0.98405
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 375
+              y: 349
+            }
+            vertices {
+              x: 382
+              y: 349
+            }
+            vertices {
+              x: 382
+              y: 356
+            }
+            vertices {
+              x: 375
+              y: 356
+            }
+          }
+          text: "う"
+          confidence: 0.990904808
+        }
+        confidence: 0.987477422
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 375
+            y: 360
+          }
+          vertices {
+            x: 382
+            y: 360
+          }
+          vertices {
+            x: 382
+            y: 367
+          }
+          vertices {
+            x: 375
+            y: 367
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 375
+              y: 360
+            }
+            vertices {
+              x: 382
+              y: 360
+            }
+            vertices {
+              x: 382
+              y: 367
+            }
+            vertices {
+              x: 375
+              y: 367
+            }
+          }
+          text: "か"
+          confidence: 0.993148744
+        }
+        confidence: 0.993148744
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 375
+            y: 369
+          }
+          vertices {
+            x: 382
+            y: 369
+          }
+          vertices {
+            x: 382
+            y: 376
+          }
+          vertices {
+            x: 375
+            y: 376
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 375
+              y: 369
+            }
+            vertices {
+              x: 382
+              y: 369
+            }
+            vertices {
+              x: 382
+              y: 376
+            }
+            vertices {
+              x: 375
+              y: 376
+            }
+          }
+          text: "と"
+          confidence: 0.995880902
+        }
+        confidence: 0.995880902
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 375
+            y: 379
+          }
+          vertices {
+            x: 382
+            y: 379
+          }
+          vertices {
+            x: 382
+            y: 397
+          }
+          vertices {
+            x: 375
+            y: 397
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 375
+              y: 379
+            }
+            vertices {
+              x: 382
+              y: 379
+            }
+            vertices {
+              x: 382
+              y: 387
+            }
+            vertices {
+              x: 375
+              y: 387
+            }
+          }
+          text: "思"
+          confidence: 0.994851768
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 375
+              y: 389
+            }
+            vertices {
+              x: 382
+              y: 389
+            }
+            vertices {
+              x: 382
+              y: 397
+            }
+            vertices {
+              x: 375
+              y: 397
+            }
+          }
+          text: "う"
+          confidence: 0.98099792
+        }
+        confidence: 0.987924814
+      }
+      confidence: 0.989972353
+    }
+    block_type: TEXT
+    confidence: 0.794357896
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 311
+        y: 333
+      }
+      vertices {
+        x: 340
+        y: 333
+      }
+      vertices {
+        x: 340
+        y: 346
+      }
+      vertices {
+        x: 311
+        y: 346
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 311
+          y: 333
+        }
+        vertices {
+          x: 340
+          y: 333
+        }
+        vertices {
+          x: 340
+          y: 346
+        }
+        vertices {
+          x: 311
+          y: 346
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 311
+            y: 333
+          }
+          vertices {
+            x: 340
+            y: 333
+          }
+          vertices {
+            x: 340
+            y: 346
+          }
+          vertices {
+            x: 311
+            y: 346
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 311
+              y: 334
+            }
+            vertices {
+              x: 320
+              y: 334
+            }
+            vertices {
+              x: 320
+              y: 346
+            }
+            vertices {
+              x: 311
+              y: 346
+            }
+          }
+          text: "ち"
+          confidence: 0.992737
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 322
+              y: 333
+            }
+            vertices {
+              x: 328
+              y: 333
+            }
+            vertices {
+              x: 328
+              y: 345
+            }
+            vertices {
+              x: 322
+              y: 345
+            }
+          }
+          text: "ょ"
+          confidence: 0.993712485
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 328
+              y: 333
+            }
+            vertices {
+              x: 331
+              y: 333
+            }
+            vertices {
+              x: 331
+              y: 345
+            }
+            vertices {
+              x: 328
+              y: 345
+            }
+          }
+          text: "っ"
+          confidence: 0.995204628
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 332
+              y: 333
+            }
+            vertices {
+              x: 340
+              y: 333
+            }
+            vertices {
+              x: 340
+              y: 345
+            }
+            vertices {
+              x: 332
+              y: 345
+            }
+          }
+          text: "と"
+          confidence: 0.97500366
+        }
+        confidence: 0.989164472
+      }
+      confidence: 0.989164472
+    }
+    block_type: TEXT
+    confidence: 0.989164472
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 316
+        y: 348
+      }
+      vertices {
+        x: 355
+        y: 345
+      }
+      vertices {
+        x: 356
+        y: 360
+      }
+      vertices {
+        x: 317
+        y: 363
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 316
+          y: 348
+        }
+        vertices {
+          x: 355
+          y: 345
+        }
+        vertices {
+          x: 356
+          y: 360
+        }
+        vertices {
+          x: 317
+          y: 363
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 316
+            y: 348
+          }
+          vertices {
+            x: 347
+            y: 346
+          }
+          vertices {
+            x: 348
+            y: 361
+          }
+          vertices {
+            x: 317
+            y: 363
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 316
+              y: 349
+            }
+            vertices {
+              x: 330
+              y: 348
+            }
+            vertices {
+              x: 331
+              y: 362
+            }
+            vertices {
+              x: 317
+              y: 363
+            }
+          }
+          text: "傷"
+          confidence: 0.981035948
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 332
+              y: 347
+            }
+            vertices {
+              x: 338
+              y: 347
+            }
+            vertices {
+              x: 339
+              y: 361
+            }
+            vertices {
+              x: 333
+              y: 361
+            }
+          }
+          text: "つ"
+          confidence: 0.983579636
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 340
+              y: 347
+            }
+            vertices {
+              x: 347
+              y: 347
+            }
+            vertices {
+              x: 348
+              y: 360
+            }
+            vertices {
+              x: 341
+              y: 361
+            }
+          }
+          text: "い"
+          confidence: 0.990796924
+        }
+        confidence: 0.985137522
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 347
+            y: 346
+          }
+          vertices {
+            x: 355
+            y: 345
+          }
+          vertices {
+            x: 356
+            y: 359
+          }
+          vertices {
+            x: 348
+            y: 360
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 347
+              y: 346
+            }
+            vertices {
+              x: 355
+              y: 345
+            }
+            vertices {
+              x: 356
+              y: 359
+            }
+            vertices {
+              x: 348
+              y: 360
+            }
+          }
+          text: "た"
+          confidence: 0.969590366
+        }
+        confidence: 0.969590366
+      }
+      confidence: 0.981250703
+    }
+    block_type: TEXT
+    confidence: 0.981250703
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 294
+        y: 404
+      }
+      vertices {
+        x: 294
+        y: 419
+      }
+      vertices {
+        x: 291
+        y: 419
+      }
+      vertices {
+        x: 291
+        y: 404
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 294
+          y: 404
+        }
+        vertices {
+          x: 294
+          y: 419
+        }
+        vertices {
+          x: 291
+          y: 419
+        }
+        vertices {
+          x: 291
+          y: 404
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 294
+            y: 404
+          }
+          vertices {
+            x: 294
+            y: 407
+          }
+          vertices {
+            x: 291
+            y: 407
+          }
+          vertices {
+            x: 291
+            y: 404
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 294
+              y: 404
+            }
+            vertices {
+              x: 294
+              y: 407
+            }
+            vertices {
+              x: 291
+              y: 407
+            }
+            vertices {
+              x: 291
+              y: 404
+            }
+          }
+          text: "4"
+          confidence: 0.285294682
+        }
+        confidence: 0.285294682
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 294
+            y: 411
+          }
+          vertices {
+            x: 294
+            y: 413
+          }
+          vertices {
+            x: 291
+            y: 413
+          }
+          vertices {
+            x: 291
+            y: 411
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 294
+              y: 411
+            }
+            vertices {
+              x: 294
+              y: 413
+            }
+            vertices {
+              x: 291
+              y: 413
+            }
+            vertices {
+              x: 291
+              y: 411
+            }
+          }
+          text: "$"
+          confidence: 0.363900065
+        }
+        confidence: 0.363900065
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 294
+            y: 413
+          }
+          vertices {
+            x: 294
+            y: 416
+          }
+          vertices {
+            x: 291
+            y: 416
+          }
+          vertices {
+            x: 291
+            y: 413
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 294
+              y: 413
+            }
+            vertices {
+              x: 294
+              y: 416
+            }
+            vertices {
+              x: 291
+              y: 416
+            }
+            vertices {
+              x: 291
+              y: 413
+            }
+          }
+          text: "1"
+          confidence: 0.512737572
+        }
+        confidence: 0.512737572
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 294
+            y: 415
+          }
+          vertices {
+            x: 294
+            y: 419
+          }
+          vertices {
+            x: 291
+            y: 419
+          }
+          vertices {
+            x: 291
+            y: 415
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 294
+              y: 415
+            }
+            vertices {
+              x: 294
+              y: 419
+            }
+            vertices {
+              x: 291
+              y: 419
+            }
+            vertices {
+              x: 291
+              y: 415
+            }
+          }
+          text: "."
+          confidence: 0.571616173
+        }
+        confidence: 0.571616173
+      }
+      confidence: 0.43338713
+    }
+    block_type: TEXT
+    confidence: 0.43338713
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 245
+        y: 356
+      }
+      vertices {
+        x: 288
+        y: 356
+      }
+      vertices {
+        x: 288
+        y: 441
+      }
+      vertices {
+        x: 245
+        y: 441
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 276
+          y: 359
+        }
+        vertices {
+          x: 288
+          y: 359
+        }
+        vertices {
+          x: 289
+          y: 430
+        }
+        vertices {
+          x: 277
+          y: 430
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 277
+            y: 359
+          }
+          vertices {
+            x: 288
+            y: 359
+          }
+          vertices {
+            x: 288
+            y: 378
+          }
+          vertices {
+            x: 277
+            y: 378
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 359
+            }
+            vertices {
+              x: 288
+              y: 359
+            }
+            vertices {
+              x: 288
+              y: 367
+            }
+            vertices {
+              x: 277
+              y: 367
+            }
+          }
+          text: "こ"
+          confidence: 0.981323
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 370
+            }
+            vertices {
+              x: 288
+              y: 370
+            }
+            vertices {
+              x: 288
+              y: 378
+            }
+            vertices {
+              x: 277
+              y: 378
+            }
+          }
+          text: "の"
+          confidence: 0.994292438
+        }
+        confidence: 0.987807751
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 277
+            y: 380
+          }
+          vertices {
+            x: 288
+            y: 380
+          }
+          vertices {
+            x: 288
+            y: 398
+          }
+          vertices {
+            x: 277
+            y: 398
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 380
+            }
+            vertices {
+              x: 288
+              y: 380
+            }
+            vertices {
+              x: 288
+              y: 388
+            }
+            vertices {
+              x: 277
+              y: 388
+            }
+          }
+          text: "非"
+          confidence: 0.991500616
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 390
+            }
+            vertices {
+              x: 288
+              y: 390
+            }
+            vertices {
+              x: 288
+              y: 398
+            }
+            vertices {
+              x: 277
+              y: 398
+            }
+          }
+          text: "常"
+          confidence: 0.98412323
+        }
+        confidence: 0.987811923
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 277
+            y: 401
+          }
+          vertices {
+            x: 288
+            y: 401
+          }
+          vertices {
+            x: 288
+            y: 420
+          }
+          vertices {
+            x: 277
+            y: 420
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 401
+            }
+            vertices {
+              x: 288
+              y: 401
+            }
+            vertices {
+              x: 288
+              y: 410
+            }
+            vertices {
+              x: 277
+              y: 410
+            }
+          }
+          text: "事"
+          confidence: 0.982309
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 277
+              y: 411
+            }
+            vertices {
+              x: 288
+              y: 411
+            }
+            vertices {
+              x: 288
+              y: 420
+            }
+            vertices {
+              x: 277
+              y: 420
+            }
+          }
+          text: "態"
+          confidence: 0.966746449
+        }
+        confidence: 0.974527717
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 277
+            y: 423
+          }
+          vertices {
+            x: 288
+            y: 423
+          }
+          vertices {
+            x: 288
+            y: 430
+          }
+          vertices {
+            x: 277
+            y: 430
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 277
+              y: 423
+            }
+            vertices {
+              x: 288
+              y: 423
+            }
+            vertices {
+              x: 288
+              y: 430
+            }
+            vertices {
+              x: 277
+              y: 430
+            }
+          }
+          text: "に"
+          confidence: 0.968076169
+        }
+        confidence: 0.968076169
+      }
+      confidence: 0.981195867
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 262
+          y: 356
+        }
+        vertices {
+          x: 271
+          y: 356
+        }
+        vertices {
+          x: 271
+          y: 419
+        }
+        vertices {
+          x: 262
+          y: 419
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 262
+            y: 356
+          }
+          vertices {
+            x: 271
+            y: 356
+          }
+          vertices {
+            x: 271
+            y: 366
+          }
+          vertices {
+            x: 262
+            y: 366
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 262
+              y: 356
+            }
+            vertices {
+              x: 271
+              y: 356
+            }
+            vertices {
+              x: 271
+              y: 366
+            }
+            vertices {
+              x: 262
+              y: 366
+            }
+          }
+          text: "何"
+          confidence: 0.966987312
+        }
+        confidence: 0.966987312
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 262
+            y: 367
+          }
+          vertices {
+            x: 271
+            y: 367
+          }
+          vertices {
+            x: 271
+            y: 376
+          }
+          vertices {
+            x: 262
+            y: 376
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 262
+              y: 367
+            }
+            vertices {
+              x: 271
+              y: 367
+            }
+            vertices {
+              x: 271
+              y: 376
+            }
+            vertices {
+              x: 262
+              y: 376
+            }
+          }
+          text: "を"
+          confidence: 0.986480772
+        }
+        confidence: 0.986480772
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 262
+            y: 378
+          }
+          vertices {
+            x: 271
+            y: 378
+          }
+          vertices {
+            x: 271
+            y: 419
+          }
+          vertices {
+            x: 262
+            y: 419
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 262
+              y: 378
+            }
+            vertices {
+              x: 271
+              y: 378
+            }
+            vertices {
+              x: 271
+              y: 386
+            }
+            vertices {
+              x: 262
+              y: 386
+            }
+          }
+          text: "と"
+          confidence: 0.985041499
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 262
+              y: 389
+            }
+            vertices {
+              x: 271
+              y: 389
+            }
+            vertices {
+              x: 271
+              y: 398
+            }
+            vertices {
+              x: 262
+              y: 398
+            }
+          }
+          text: "ろ"
+          confidence: 0.992006063
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 262
+              y: 399
+            }
+            vertices {
+              x: 271
+              y: 399
+            }
+            vertices {
+              x: 271
+              y: 407
+            }
+            vertices {
+              x: 262
+              y: 407
+            }
+          }
+          text: "と"
+          confidence: 0.994511
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 262
+              y: 410
+            }
+            vertices {
+              x: 271
+              y: 410
+            }
+            vertices {
+              x: 271
+              y: 419
+            }
+            vertices {
+              x: 262
+              y: 419
+            }
+          }
+          text: "ろ"
+          confidence: 0.976067781
+        }
+        confidence: 0.986906588
+      }
+      confidence: 0.983515739
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 245
+          y: 358
+        }
+        vertices {
+          x: 256
+          y: 358
+        }
+        vertices {
+          x: 257
+          y: 441
+        }
+        vertices {
+          x: 246
+          y: 441
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 358
+          }
+          vertices {
+            x: 256
+            y: 358
+          }
+          vertices {
+            x: 256
+            y: 378
+          }
+          vertices {
+            x: 246
+            y: 378
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 358
+            }
+            vertices {
+              x: 256
+              y: 358
+            }
+            vertices {
+              x: 256
+              y: 368
+            }
+            vertices {
+              x: 246
+              y: 368
+            }
+          }
+          text: "歩"
+          confidence: 0.978790581
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 370
+            }
+            vertices {
+              x: 256
+              y: 370
+            }
+            vertices {
+              x: 256
+              y: 378
+            }
+            vertices {
+              x: 246
+              y: 378
+            }
+          }
+          text: "い"
+          confidence: 0.977778435
+        }
+        confidence: 0.978284478
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 380
+          }
+          vertices {
+            x: 256
+            y: 380
+          }
+          vertices {
+            x: 256
+            y: 389
+          }
+          vertices {
+            x: 246
+            y: 389
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 380
+            }
+            vertices {
+              x: 256
+              y: 380
+            }
+            vertices {
+              x: 256
+              y: 389
+            }
+            vertices {
+              x: 246
+              y: 389
+            }
+          }
+          text: "て"
+          confidence: 0.958870471
+        }
+        confidence: 0.958870471
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 390
+          }
+          vertices {
+            x: 256
+            y: 390
+          }
+          vertices {
+            x: 256
+            y: 410
+          }
+          vertices {
+            x: 246
+            y: 410
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 390
+            }
+            vertices {
+              x: 256
+              y: 390
+            }
+            vertices {
+              x: 256
+              y: 399
+            }
+            vertices {
+              x: 246
+              y: 399
+            }
+          }
+          text: "居"
+          confidence: 0.878884852
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 402
+            }
+            vertices {
+              x: 256
+              y: 402
+            }
+            vertices {
+              x: 256
+              y: 410
+            }
+            vertices {
+              x: 246
+              y: 410
+            }
+          }
+          text: "る"
+          confidence: 0.977385879
+        }
+        confidence: 0.928135395
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 413
+          }
+          vertices {
+            x: 256
+            y: 413
+          }
+          vertices {
+            x: 256
+            y: 421
+          }
+          vertices {
+            x: 246
+            y: 421
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 413
+            }
+            vertices {
+              x: 256
+              y: 413
+            }
+            vertices {
+              x: 256
+              y: 421
+            }
+            vertices {
+              x: 246
+              y: 421
+            }
+          }
+          text: "の"
+          confidence: 0.98915112
+        }
+        confidence: 0.98915112
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 422
+          }
+          vertices {
+            x: 256
+            y: 422
+          }
+          vertices {
+            x: 256
+            y: 430
+          }
+          vertices {
+            x: 246
+            y: 430
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 246
+              y: 422
+            }
+            vertices {
+              x: 256
+              y: 422
+            }
+            vertices {
+              x: 256
+              y: 430
+            }
+            vertices {
+              x: 246
+              y: 430
+            }
+          }
+          text: "だ"
+          confidence: 0.99633193
+        }
+        confidence: 0.99633193
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 246
+            y: 434
+          }
+          vertices {
+            x: 256
+            y: 434
+          }
+          vertices {
+            x: 256
+            y: 441
+          }
+          vertices {
+            x: 246
+            y: 441
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 246
+              y: 434
+            }
+            vertices {
+              x: 256
+              y: 434
+            }
+            vertices {
+              x: 256
+              y: 441
+            }
+            vertices {
+              x: 246
+              y: 441
+            }
+          }
+          text: "!"
+          confidence: 0.98429513
+        }
+        confidence: 0.98429513
+      }
+      confidence: 0.967686057
+    }
+    block_type: TEXT
+    confidence: 0.976712108
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 77
+        y: 383
+      }
+      vertices {
+        x: 77
+        y: 393
+      }
+      vertices {
+        x: 74
+        y: 393
+      }
+      vertices {
+        x: 74
+        y: 383
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 77
+          y: 383
+        }
+        vertices {
+          x: 77
+          y: 393
+        }
+        vertices {
+          x: 74
+          y: 393
+        }
+        vertices {
+          x: 74
+          y: 383
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 77
+            y: 383
+          }
+          vertices {
+            x: 77
+            y: 393
+          }
+          vertices {
+            x: 74
+            y: 393
+          }
+          vertices {
+            x: 74
+            y: 383
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 77
+              y: 383
+            }
+            vertices {
+              x: 77
+              y: 388
+            }
+            vertices {
+              x: 74
+              y: 388
+            }
+            vertices {
+              x: 74
+              y: 383
+            }
+          }
+          text: "は"
+          confidence: 0.366834283
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 77
+              y: 388
+            }
+            vertices {
+              x: 77
+              y: 393
+            }
+            vertices {
+              x: 74
+              y: 393
+            }
+            vertices {
+              x: 74
+              y: 388
+            }
+          }
+          text: "や"
+          confidence: 0.424821079
+        }
+        confidence: 0.395827681
+      }
+      confidence: 0.395827681
+    }
+    block_type: TEXT
+    confidence: 0.395827681
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 57
+        y: 382
+      }
+      vertices {
+        x: 70
+        y: 382
+      }
+      vertices {
+        x: 71
+        y: 443
+      }
+      vertices {
+        x: 58
+        y: 443
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 57
+          y: 382
+        }
+        vertices {
+          x: 70
+          y: 382
+        }
+        vertices {
+          x: 71
+          y: 443
+        }
+        vertices {
+          x: 58
+          y: 443
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 58
+            y: 382
+          }
+          vertices {
+            x: 70
+            y: 382
+          }
+          vertices {
+            x: 71
+            y: 407
+          }
+          vertices {
+            x: 59
+            y: 407
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 58
+              y: 382
+            }
+            vertices {
+              x: 70
+              y: 382
+            }
+            vertices {
+              x: 70
+              y: 394
+            }
+            vertices {
+              x: 58
+              y: 394
+            }
+          }
+          text: "疾"
+          confidence: 0.263124466
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 58
+              y: 396
+            }
+            vertices {
+              x: 70
+              y: 396
+            }
+            vertices {
+              x: 70
+              y: 407
+            }
+            vertices {
+              x: 58
+              y: 407
+            }
+          }
+          text: "く"
+          confidence: 0.728696644
+        }
+        confidence: 0.495910555
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 58
+            y: 408
+          }
+          vertices {
+            x: 70
+            y: 408
+          }
+          vertices {
+            x: 70
+            y: 432
+          }
+          vertices {
+            x: 58
+            y: 432
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 58
+              y: 408
+            }
+            vertices {
+              x: 70
+              y: 408
+            }
+            vertices {
+              x: 70
+              y: 421
+            }
+            vertices {
+              x: 58
+              y: 421
+            }
+          }
+          text: "来"
+          confidence: 0.828561
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 58
+              y: 422
+            }
+            vertices {
+              x: 70
+              y: 422
+            }
+            vertices {
+              x: 70
+              y: 432
+            }
+            vertices {
+              x: 58
+              y: 432
+            }
+          }
+          text: "い"
+          confidence: 0.978800833
+        }
+        confidence: 0.903680921
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 59
+            y: 435
+          }
+          vertices {
+            x: 71
+            y: 435
+          }
+          vertices {
+            x: 71
+            y: 443
+          }
+          vertices {
+            x: 59
+            y: 443
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 59
+              y: 435
+            }
+            vertices {
+              x: 71
+              y: 435
+            }
+            vertices {
+              x: 71
+              y: 443
+            }
+            vertices {
+              x: 59
+              y: 443
+            }
+          }
+          text: "!"
+          confidence: 0.92897886
+        }
+        confidence: 0.92897886
+      }
+      confidence: 0.74563235
+    }
+    block_type: TEXT
+    confidence: 0.74563235
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 479
+        y: 492
+      }
+      vertices {
+        x: 479
+        y: 499
+      }
+      vertices {
+        x: 475
+        y: 499
+      }
+      vertices {
+        x: 475
+        y: 492
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 479
+          y: 492
+        }
+        vertices {
+          x: 479
+          y: 499
+        }
+        vertices {
+          x: 475
+          y: 499
+        }
+        vertices {
+          x: 475
+          y: 492
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 479
+            y: 492
+          }
+          vertices {
+            x: 479
+            y: 499
+          }
+          vertices {
+            x: 475
+            y: 499
+          }
+          vertices {
+            x: 475
+            y: 492
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 479
+              y: 492
+            }
+            vertices {
+              x: 479
+              y: 497
+            }
+            vertices {
+              x: 476
+              y: 497
+            }
+            vertices {
+              x: 476
+              y: 492
+            }
+          }
+          text: "4"
+          confidence: 0.55146116
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 478
+              y: 494
+            }
+            vertices {
+              x: 478
+              y: 499
+            }
+            vertices {
+              x: 475
+              y: 499
+            }
+            vertices {
+              x: 475
+              y: 494
+            }
+          }
+          text: "6"
+          confidence: 0.413625956
+        }
+        confidence: 0.482543558
+      }
+      confidence: 0.482543558
+    }
+    block_type: TEXT
+    confidence: 0.482543558
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 473
+        y: 534
+      }
+      vertices {
+        x: 473
+        y: 526
+      }
+      vertices {
+        x: 477
+        y: 526
+      }
+      vertices {
+        x: 477
+        y: 534
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 473
+          y: 534
+        }
+        vertices {
+          x: 473
+          y: 526
+        }
+        vertices {
+          x: 477
+          y: 526
+        }
+        vertices {
+          x: 477
+          y: 534
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 473
+            y: 534
+          }
+          vertices {
+            x: 473
+            y: 526
+          }
+          vertices {
+            x: 477
+            y: 526
+          }
+          vertices {
+            x: 477
+            y: 534
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 473
+              y: 534
+            }
+            vertices {
+              x: 473
+              y: 529
+            }
+            vertices {
+              x: 477
+              y: 529
+            }
+            vertices {
+              x: 477
+              y: 534
+            }
+          }
+          text: "P"
+          confidence: 0.474997699
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 473
+              y: 531
+            }
+            vertices {
+              x: 473
+              y: 526
+            }
+            vertices {
+              x: 477
+              y: 526
+            }
+            vertices {
+              x: 477
+              y: 531
+            }
+          }
+          text: "A"
+          confidence: 0.406189531
+        }
+        confidence: 0.4405936
+      }
+      confidence: 0.4405936
+    }
+    block_type: TEXT
+    confidence: 0.4405936
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 462
+        y: 489
+      }
+      vertices {
+        x: 470
+        y: 489
+      }
+      vertices {
+        x: 469
+        y: 572
+      }
+      vertices {
+        x: 461
+        y: 572
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 462
+          y: 489
+        }
+        vertices {
+          x: 470
+          y: 489
+        }
+        vertices {
+          x: 469
+          y: 572
+        }
+        vertices {
+          x: 461
+          y: 572
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 462
+            y: 489
+          }
+          vertices {
+            x: 470
+            y: 489
+          }
+          vertices {
+            x: 470
+            y: 498
+          }
+          vertices {
+            x: 462
+            y: 498
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 489
+            }
+            vertices {
+              x: 470
+              y: 489
+            }
+            vertices {
+              x: 470
+              y: 498
+            }
+            vertices {
+              x: 462
+              y: 498
+            }
+          }
+          text: "朝"
+          confidence: 0.984823942
+        }
+        confidence: 0.984823942
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 462
+            y: 501
+          }
+          vertices {
+            x: 470
+            y: 501
+          }
+          vertices {
+            x: 470
+            y: 519
+          }
+          vertices {
+            x: 462
+            y: 519
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 501
+            }
+            vertices {
+              x: 470
+              y: 501
+            }
+            vertices {
+              x: 470
+              y: 508
+            }
+            vertices {
+              x: 462
+              y: 508
+            }
+          }
+          text: "か"
+          confidence: 0.994662941
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 512
+            }
+            vertices {
+              x: 470
+              y: 512
+            }
+            vertices {
+              x: 470
+              y: 519
+            }
+            vertices {
+              x: 462
+              y: 519
+            }
+          }
+          text: "ら"
+          confidence: 0.990283132
+        }
+        confidence: 0.992473
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 462
+            y: 522
+          }
+          vertices {
+            x: 470
+            y: 522
+          }
+          vertices {
+            x: 470
+            y: 542
+          }
+          vertices {
+            x: 462
+            y: 542
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 522
+            }
+            vertices {
+              x: 470
+              y: 522
+            }
+            vertices {
+              x: 470
+              y: 531
+            }
+            vertices {
+              x: 462
+              y: 531
+            }
+          }
+          text: "元"
+          confidence: 0.992567956
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 534
+            }
+            vertices {
+              x: 470
+              y: 534
+            }
+            vertices {
+              x: 470
+              y: 542
+            }
+            vertices {
+              x: 462
+              y: 542
+            }
+          }
+          text: "気"
+          confidence: 0.991701841
+        }
+        confidence: 0.992134929
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 462
+            y: 545
+          }
+          vertices {
+            x: 470
+            y: 545
+          }
+          vertices {
+            x: 470
+            y: 550
+          }
+          vertices {
+            x: 462
+            y: 550
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 545
+            }
+            vertices {
+              x: 470
+              y: 545
+            }
+            vertices {
+              x: 470
+              y: 550
+            }
+            vertices {
+              x: 462
+              y: 550
+            }
+          }
+          text: "だ"
+          confidence: 0.988031864
+        }
+        confidence: 0.988031864
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 462
+            y: 554
+          }
+          vertices {
+            x: 470
+            y: 554
+          }
+          vertices {
+            x: 470
+            y: 572
+          }
+          vertices {
+            x: 462
+            y: 572
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 462
+              y: 554
+            }
+            vertices {
+              x: 470
+              y: 554
+            }
+            vertices {
+              x: 470
+              y: 562
+            }
+            vertices {
+              x: 462
+              y: 562
+            }
+          }
+          text: "な"
+          confidence: 0.979441583
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 462
+              y: 565
+            }
+            vertices {
+              x: 470
+              y: 565
+            }
+            vertices {
+              x: 470
+              y: 572
+            }
+            vertices {
+              x: 462
+              y: 572
+            }
+          }
+          text: "あ"
+          confidence: 0.936077416
+        }
+        confidence: 0.9577595
+      }
+      confidence: 0.982198834
+    }
+    block_type: TEXT
+    confidence: 0.982198834
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 361
+        y: 534
+      }
+      vertices {
+        x: 401
+        y: 534
+      }
+      vertices {
+        x: 402
+        y: 615
+      }
+      vertices {
+        x: 362
+        y: 615
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 392
+          y: 534
+        }
+        vertices {
+          x: 401
+          y: 534
+        }
+        vertices {
+          x: 401
+          y: 615
+        }
+        vertices {
+          x: 392
+          y: 615
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 392
+            y: 534
+          }
+          vertices {
+            x: 401
+            y: 534
+          }
+          vertices {
+            x: 401
+            y: 574
+          }
+          vertices {
+            x: 392
+            y: 574
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 534
+            }
+            vertices {
+              x: 401
+              y: 534
+            }
+            vertices {
+              x: 401
+              y: 542
+            }
+            vertices {
+              x: 392
+              y: 542
+            }
+          }
+          text: "あ"
+          confidence: 0.9839046
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 545
+            }
+            vertices {
+              x: 401
+              y: 545
+            }
+            vertices {
+              x: 401
+              y: 552
+            }
+            vertices {
+              x: 392
+              y: 552
+            }
+          }
+          text: "ん"
+          confidence: 0.993982911
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 555
+            }
+            vertices {
+              x: 401
+              y: 555
+            }
+            vertices {
+              x: 401
+              y: 562
+            }
+            vertices {
+              x: 392
+              y: 562
+            }
+          }
+          text: "ま"
+          confidence: 0.988380253
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 566
+            }
+            vertices {
+              x: 401
+              y: 566
+            }
+            vertices {
+              x: 401
+              y: 574
+            }
+            vertices {
+              x: 392
+              y: 574
+            }
+          }
+          text: "り"
+          confidence: 0.990939677
+        }
+        confidence: 0.98930186
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 392
+            y: 576
+          }
+          vertices {
+            x: 401
+            y: 576
+          }
+          vertices {
+            x: 401
+            y: 605
+          }
+          vertices {
+            x: 392
+            y: 605
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 576
+            }
+            vertices {
+              x: 401
+              y: 576
+            }
+            vertices {
+              x: 401
+              y: 585
+            }
+            vertices {
+              x: 392
+              y: 585
+            }
+          }
+          text: "怒"
+          confidence: 0.988112271
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 587
+            }
+            vertices {
+              x: 401
+              y: 587
+            }
+            vertices {
+              x: 401
+              y: 596
+            }
+            vertices {
+              x: 392
+              y: 596
+            }
+          }
+          text: "鳴"
+          confidence: 0.988321
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 392
+              y: 598
+            }
+            vertices {
+              x: 401
+              y: 598
+            }
+            vertices {
+              x: 401
+              y: 605
+            }
+            vertices {
+              x: 392
+              y: 605
+            }
+          }
+          text: "る"
+          confidence: 0.995104551
+        }
+        confidence: 0.990512609
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 392
+            y: 608
+          }
+          vertices {
+            x: 401
+            y: 608
+          }
+          vertices {
+            x: 401
+            y: 615
+          }
+          vertices {
+            x: 392
+            y: 615
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 392
+              y: 608
+            }
+            vertices {
+              x: 401
+              y: 608
+            }
+            vertices {
+              x: 401
+              y: 615
+            }
+            vertices {
+              x: 392
+              y: 615
+            }
+          }
+          text: "と"
+          confidence: 0.969765
+        }
+        confidence: 0.969765
+      }
+      confidence: 0.987313807
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 376
+          y: 534
+        }
+        vertices {
+          x: 386
+          y: 534
+        }
+        vertices {
+          x: 386
+          y: 604
+        }
+        vertices {
+          x: 376
+          y: 604
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 376
+            y: 534
+          }
+          vertices {
+            x: 386
+            y: 534
+          }
+          vertices {
+            x: 386
+            y: 551
+          }
+          vertices {
+            x: 376
+            y: 551
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 534
+            }
+            vertices {
+              x: 386
+              y: 534
+            }
+            vertices {
+              x: 386
+              y: 542
+            }
+            vertices {
+              x: 376
+              y: 542
+            }
+          }
+          text: "悪"
+          confidence: 0.962485969
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 546
+            }
+            vertices {
+              x: 386
+              y: 546
+            }
+            vertices {
+              x: 386
+              y: 551
+            }
+            vertices {
+              x: 376
+              y: 551
+            }
+          }
+          text: "い"
+          confidence: 0.965617
+        }
+        confidence: 0.964051485
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 376
+            y: 555
+          }
+          vertices {
+            x: 386
+            y: 555
+          }
+          vertices {
+            x: 386
+            y: 573
+          }
+          vertices {
+            x: 376
+            y: 573
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 555
+            }
+            vertices {
+              x: 386
+              y: 555
+            }
+            vertices {
+              x: 386
+              y: 564
+            }
+            vertices {
+              x: 376
+              y: 564
+            }
+          }
+          text: "体"
+          confidence: 0.970122695
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 565
+            }
+            vertices {
+              x: 386
+              y: 565
+            }
+            vertices {
+              x: 386
+              y: 573
+            }
+            vertices {
+              x: 376
+              y: 573
+            }
+          }
+          text: "内"
+          confidence: 0.982445776
+        }
+        confidence: 0.976284266
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 376
+            y: 576
+          }
+          vertices {
+            x: 386
+            y: 576
+          }
+          vertices {
+            x: 386
+            y: 594
+          }
+          vertices {
+            x: 376
+            y: 594
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 576
+            }
+            vertices {
+              x: 386
+              y: 576
+            }
+            vertices {
+              x: 386
+              y: 584
+            }
+            vertices {
+              x: 376
+              y: 584
+            }
+          }
+          text: "物"
+          confidence: 0.969038725
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 586
+            }
+            vertices {
+              x: 386
+              y: 586
+            }
+            vertices {
+              x: 386
+              y: 594
+            }
+            vertices {
+              x: 376
+              y: 594
+            }
+          }
+          text: "質"
+          confidence: 0.96914047
+        }
+        confidence: 0.969089627
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 376
+            y: 597
+          }
+          vertices {
+            x: 386
+            y: 597
+          }
+          vertices {
+            x: 386
+            y: 604
+          }
+          vertices {
+            x: 376
+            y: 604
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 376
+              y: 597
+            }
+            vertices {
+              x: 386
+              y: 597
+            }
+            vertices {
+              x: 386
+              y: 604
+            }
+            vertices {
+              x: 376
+              y: 604
+            }
+          }
+          text: "が"
+          confidence: 0.944416344
+        }
+        confidence: 0.944416344
+      }
+      confidence: 0.966181
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 361
+          y: 534
+        }
+        vertices {
+          x: 369
+          y: 534
+        }
+        vertices {
+          x: 370
+          y: 584
+        }
+        vertices {
+          x: 362
+          y: 584
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 361
+            y: 534
+          }
+          vertices {
+            x: 369
+            y: 534
+          }
+          vertices {
+            x: 369
+            y: 554
+          }
+          vertices {
+            x: 361
+            y: 554
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 361
+              y: 534
+            }
+            vertices {
+              x: 369
+              y: 534
+            }
+            vertices {
+              x: 369
+              y: 544
+            }
+            vertices {
+              x: 361
+              y: 544
+            }
+          }
+          text: "分"
+          confidence: 0.679235876
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 361
+              y: 543
+            }
+            vertices {
+              x: 369
+              y: 543
+            }
+            vertices {
+              x: 369
+              y: 554
+            }
+            vertices {
+              x: 361
+              y: 554
+            }
+          }
+          text: "泌"
+          confidence: 0.442151308
+        }
+        confidence: 0.560693622
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 361
+            y: 555
+          }
+          vertices {
+            x: 369
+            y: 555
+          }
+          vertices {
+            x: 369
+            y: 563
+          }
+          vertices {
+            x: 361
+            y: 563
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 361
+              y: 555
+            }
+            vertices {
+              x: 369
+              y: 555
+            }
+            vertices {
+              x: 369
+              y: 563
+            }
+            vertices {
+              x: 361
+              y: 563
+            }
+          }
+          text: "さ"
+          confidence: 0.971823871
+        }
+        confidence: 0.971823871
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 361
+            y: 566
+          }
+          vertices {
+            x: 369
+            y: 566
+          }
+          vertices {
+            x: 369
+            y: 573
+          }
+          vertices {
+            x: 361
+            y: 573
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 361
+              y: 566
+            }
+            vertices {
+              x: 369
+              y: 566
+            }
+            vertices {
+              x: 369
+              y: 573
+            }
+            vertices {
+              x: 361
+              y: 573
+            }
+          }
+          text: "れ"
+          confidence: 0.991325438
+        }
+        confidence: 0.991325438
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 361
+            y: 577
+          }
+          vertices {
+            x: 369
+            y: 577
+          }
+          vertices {
+            x: 369
+            y: 584
+          }
+          vertices {
+            x: 361
+            y: 584
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 361
+              y: 577
+            }
+            vertices {
+              x: 369
+              y: 577
+            }
+            vertices {
+              x: 369
+              y: 584
+            }
+            vertices {
+              x: 361
+              y: 584
+            }
+          }
+          text: "て"
+          confidence: 0.979777753
+        }
+        confidence: 0.979777753
+      }
+      confidence: 0.812862873
+    }
+    block_type: TEXT
+    confidence: 0.936304569
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 393
+        y: 533
+      }
+      vertices {
+        x: 394
+        y: 590
+      }
+      vertices {
+        x: 388
+        y: 590
+      }
+      vertices {
+        x: 387
+        y: 533
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 393
+          y: 533
+        }
+        vertices {
+          x: 394
+          y: 590
+        }
+        vertices {
+          x: 388
+          y: 590
+        }
+        vertices {
+          x: 387
+          y: 533
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 533
+          }
+          vertices {
+            x: 393
+            y: 541
+          }
+          vertices {
+            x: 390
+            y: 541
+          }
+          vertices {
+            x: 390
+            y: 533
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 533
+            }
+            vertices {
+              x: 393
+              y: 537
+            }
+            vertices {
+              x: 390
+              y: 537
+            }
+            vertices {
+              x: 390
+              y: 533
+            }
+          }
+          text: "4"
+          confidence: 0.333103448
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 393
+              y: 536
+            }
+            vertices {
+              x: 393
+              y: 541
+            }
+            vertices {
+              x: 390
+              y: 541
+            }
+            vertices {
+              x: 390
+              y: 536
+            }
+          }
+          text: "4"
+          confidence: 0.368353575
+        }
+        confidence: 0.350728512
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 552
+          }
+          vertices {
+            x: 393
+            y: 553
+          }
+          vertices {
+            x: 388
+            y: 553
+          }
+          vertices {
+            x: 388
+            y: 552
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 552
+            }
+            vertices {
+              x: 393
+              y: 553
+            }
+            vertices {
+              x: 388
+              y: 553
+            }
+            vertices {
+              x: 388
+              y: 552
+            }
+          }
+          text: "("
+          confidence: 0.386230409
+        }
+        confidence: 0.386230409
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 553
+          }
+          vertices {
+            x: 393
+            y: 562
+          }
+          vertices {
+            x: 388
+            y: 562
+          }
+          vertices {
+            x: 388
+            y: 553
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 553
+            }
+            vertices {
+              x: 393
+              y: 557
+            }
+            vertices {
+              x: 388
+              y: 557
+            }
+            vertices {
+              x: 388
+              y: 553
+            }
+          }
+          text: "た"
+          confidence: 0.695767641
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 559
+            }
+            vertices {
+              x: 393
+              y: 562
+            }
+            vertices {
+              x: 388
+              y: 562
+            }
+            vertices {
+              x: 388
+              y: 559
+            }
+          }
+          text: "い"
+          confidence: 0.854043543
+        }
+        confidence: 0.774905562
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 564
+          }
+          vertices {
+            x: 393
+            y: 572
+          }
+          vertices {
+            x: 388
+            y: 572
+          }
+          vertices {
+            x: 388
+            y: 564
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 564
+            }
+            vertices {
+              x: 393
+              y: 568
+            }
+            vertices {
+              x: 388
+              y: 568
+            }
+            vertices {
+              x: 388
+              y: 564
+            }
+          }
+          text: "な"
+          confidence: 0.431817442
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 570
+            }
+            vertices {
+              x: 393
+              y: 572
+            }
+            vertices {
+              x: 388
+              y: 572
+            }
+            vertices {
+              x: 388
+              y: 570
+            }
+          }
+          text: "い"
+          confidence: 0.489689201
+        }
+        confidence: 0.460753322
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 575
+          }
+          vertices {
+            x: 393
+            y: 579
+          }
+          vertices {
+            x: 388
+            y: 579
+          }
+          vertices {
+            x: 388
+            y: 575
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 575
+            }
+            vertices {
+              x: 393
+              y: 579
+            }
+            vertices {
+              x: 388
+              y: 579
+            }
+            vertices {
+              x: 388
+              y: 575
+            }
+          }
+          text: "よ"
+          confidence: 0.302023023
+        }
+        confidence: 0.302023023
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 393
+            y: 580
+          }
+          vertices {
+            x: 393
+            y: 590
+          }
+          vertices {
+            x: 388
+            y: 590
+          }
+          vertices {
+            x: 388
+            y: 580
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 393
+              y: 580
+            }
+            vertices {
+              x: 393
+              y: 583
+            }
+            vertices {
+              x: 388
+              y: 583
+            }
+            vertices {
+              x: 388
+              y: 580
+            }
+          }
+          text: "っ"
+          confidence: 0.498592585
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 393
+              y: 586
+            }
+            vertices {
+              x: 393
+              y: 590
+            }
+            vertices {
+              x: 388
+              y: 590
+            }
+            vertices {
+              x: 388
+              y: 586
+            }
+          }
+          text: "し"
+          confidence: 0.516988
+        }
+        confidence: 0.507790267
+      }
+      confidence: 0.487660885
+    }
+    block_type: TEXT
+    confidence: 0.487660885
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 376
+        y: 534
+      }
+      vertices {
+        x: 376
+        y: 552
+      }
+      vertices {
+        x: 372
+        y: 552
+      }
+      vertices {
+        x: 372
+        y: 534
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 376
+          y: 534
+        }
+        vertices {
+          x: 376
+          y: 552
+        }
+        vertices {
+          x: 372
+          y: 552
+        }
+        vertices {
+          x: 372
+          y: 534
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 376
+            y: 534
+          }
+          vertices {
+            x: 376
+            y: 552
+          }
+          vertices {
+            x: 372
+            y: 552
+          }
+          vertices {
+            x: 372
+            y: 534
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 534
+            }
+            vertices {
+              x: 376
+              y: 538
+            }
+            vertices {
+              x: 372
+              y: 538
+            }
+            vertices {
+              x: 372
+              y: 534
+            }
+          }
+          text: "よ"
+          confidence: 0.160188884
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 538
+            }
+            vertices {
+              x: 376
+              y: 541
+            }
+            vertices {
+              x: 372
+              y: 541
+            }
+            vertices {
+              x: 372
+              y: 538
+            }
+          }
+          text: "ん"
+          confidence: 0.239589185
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 376
+              y: 543
+            }
+            vertices {
+              x: 376
+              y: 547
+            }
+            vertices {
+              x: 372
+              y: 547
+            }
+            vertices {
+              x: 372
+              y: 543
+            }
+          }
+          text: "ひ"
+          confidence: 0.304976165
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 376
+              y: 548
+            }
+            vertices {
+              x: 376
+              y: 552
+            }
+            vertices {
+              x: 372
+              y: 552
+            }
+            vertices {
+              x: 372
+              y: 548
+            }
+          }
+          text: "つ"
+          confidence: 0.355061829
+        }
+        confidence: 0.264954031
+      }
+      confidence: 0.264954031
+    }
+    block_type: TEXT
+    confidence: 0.264954031
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 103
+        y: 492
+      }
+      vertices {
+        x: 227
+        y: 486
+      }
+      vertices {
+        x: 232
+        y: 599
+      }
+      vertices {
+        x: 109
+        y: 605
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 217
+          y: 510
+        }
+        vertices {
+          x: 228
+          y: 510
+        }
+        vertices {
+          x: 228
+          y: 571
+        }
+        vertices {
+          x: 217
+          y: 571
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 510
+          }
+          vertices {
+            x: 228
+            y: 510
+          }
+          vertices {
+            x: 228
+            y: 520
+          }
+          vertices {
+            x: 217
+            y: 520
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 510
+            }
+            vertices {
+              x: 228
+              y: 510
+            }
+            vertices {
+              x: 228
+              y: 520
+            }
+            vertices {
+              x: 217
+              y: 520
+            }
+          }
+          text: "何"
+          confidence: 0.947873294
+        }
+        confidence: 0.947873294
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 527
+          }
+          vertices {
+            x: 228
+            y: 527
+          }
+          vertices {
+            x: 228
+            y: 549
+          }
+          vertices {
+            x: 217
+            y: 549
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 527
+            }
+            vertices {
+              x: 228
+              y: 527
+            }
+            vertices {
+              x: 228
+              y: 538
+            }
+            vertices {
+              x: 217
+              y: 538
+            }
+          }
+          text: "本"
+          confidence: 0.961767
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 538
+            }
+            vertices {
+              x: 228
+              y: 538
+            }
+            vertices {
+              x: 228
+              y: 549
+            }
+            vertices {
+              x: 217
+              y: 549
+            }
+          }
+          text: "当"
+          confidence: 0.915665329
+        }
+        confidence: 0.938716173
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 551
+          }
+          vertices {
+            x: 228
+            y: 551
+          }
+          vertices {
+            x: 228
+            y: 561
+          }
+          vertices {
+            x: 217
+            y: 561
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 551
+            }
+            vertices {
+              x: 228
+              y: 551
+            }
+            vertices {
+              x: 228
+              y: 561
+            }
+            vertices {
+              x: 217
+              y: 561
+            }
+          }
+          text: "か"
+          confidence: 0.913608909
+        }
+        confidence: 0.913608909
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 562
+          }
+          vertices {
+            x: 228
+            y: 562
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 562
+            }
+            vertices {
+              x: 228
+              y: 562
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "?"
+          confidence: 0.454334646
+        }
+        confidence: 0.454334646
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 562
+          }
+          vertices {
+            x: 228
+            y: 562
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 562
+            }
+            vertices {
+              x: 228
+              y: 562
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "!"
+          confidence: 0.247841224
+        }
+        confidence: 0.247841224
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "?"
+          confidence: 0.163432792
+        }
+        confidence: 0.163432792
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 564
+          }
+          vertices {
+            x: 228
+            y: 564
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 564
+            }
+            vertices {
+              x: 228
+              y: 564
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "!"
+          confidence: 0.141182736
+        }
+        confidence: 0.141182736
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "?"
+          confidence: 0.120414756
+        }
+        confidence: 0.120414756
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 217
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "!"
+          confidence: 0.209858477
+        }
+        confidence: 0.209858477
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 217
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 563
+          }
+          vertices {
+            x: 228
+            y: 571
+          }
+          vertices {
+            x: 217
+            y: 571
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 217
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 563
+            }
+            vertices {
+              x: 228
+              y: 571
+            }
+            vertices {
+              x: 217
+              y: 571
+            }
+          }
+          text: "?"
+          confidence: 0.392831504
+        }
+        confidence: 0.392831504
+      }
+      confidence: 0.497164607
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 179
+          y: 492
+        }
+        vertices {
+          x: 209
+          y: 492
+        }
+        vertices {
+          x: 210
+          y: 599
+        }
+        vertices {
+          x: 180
+          y: 599
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 179
+            y: 492
+          }
+          vertices {
+            x: 209
+            y: 492
+          }
+          vertices {
+            x: 210
+            y: 599
+          }
+          vertices {
+            x: 180
+            y: 599
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 180
+              y: 492
+            }
+            vertices {
+              x: 209
+              y: 492
+            }
+            vertices {
+              x: 209
+              y: 537
+            }
+            vertices {
+              x: 180
+              y: 537
+            }
+          }
+          text: "ギ"
+          confidence: 0.282607228
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 180
+              y: 562
+            }
+            vertices {
+              x: 209
+              y: 562
+            }
+            vertices {
+              x: 209
+              y: 599
+            }
+            vertices {
+              x: 180
+              y: 599
+            }
+          }
+          text: "ン"
+          confidence: 0.401134789
+        }
+        confidence: 0.341871023
+      }
+      confidence: 0.341871023
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 126
+          y: 491
+        }
+        vertices {
+          x: 140
+          y: 490
+        }
+        vertices {
+          x: 150
+          y: 601
+        }
+        vertices {
+          x: 136
+          y: 603
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 127
+            y: 491
+          }
+          vertices {
+            x: 140
+            y: 490
+          }
+          vertices {
+            x: 145
+            y: 550
+          }
+          vertices {
+            x: 132
+            y: 551
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 127
+              y: 491
+            }
+            vertices {
+              x: 140
+              y: 490
+            }
+            vertices {
+              x: 142
+              y: 511
+            }
+            vertices {
+              x: 129
+              y: 512
+            }
+          }
+          text: "怒"
+          confidence: 0.979394495
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 129
+              y: 514
+            }
+            vertices {
+              x: 142
+              y: 513
+            }
+            vertices {
+              x: 144
+              y: 531
+            }
+            vertices {
+              x: 131
+              y: 532
+            }
+          }
+          text: "鳴"
+          confidence: 0.972214878
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 131
+              y: 538
+            }
+            vertices {
+              x: 144
+              y: 537
+            }
+            vertices {
+              x: 145
+              y: 550
+            }
+            vertices {
+              x: 132
+              y: 551
+            }
+          }
+          text: "り"
+          confidence: 0.948425531
+        }
+        confidence: 0.966678321
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 132
+            y: 552
+          }
+          vertices {
+            x: 145
+            y: 551
+          }
+          vertices {
+            x: 148
+            y: 590
+          }
+          vertices {
+            x: 135
+            y: 591
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 132
+              y: 552
+            }
+            vertices {
+              x: 145
+              y: 551
+            }
+            vertices {
+              x: 146
+              y: 563
+            }
+            vertices {
+              x: 133
+              y: 564
+            }
+          }
+          text: "す"
+          confidence: 0.978151679
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 133
+              y: 565
+            }
+            vertices {
+              x: 146
+              y: 564
+            }
+            vertices {
+              x: 147
+              y: 575
+            }
+            vertices {
+              x: 134
+              y: 576
+            }
+          }
+          text: "ぎ"
+          confidence: 0.978893518
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 134
+              y: 579
+            }
+            vertices {
+              x: 147
+              y: 578
+            }
+            vertices {
+              x: 148
+              y: 590
+            }
+            vertices {
+              x: 135
+              y: 591
+            }
+          }
+          text: "る"
+          confidence: 0.99381417
+        }
+        confidence: 0.983619809
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 135
+            y: 592
+          }
+          vertices {
+            x: 148
+            y: 591
+          }
+          vertices {
+            x: 149
+            y: 602
+          }
+          vertices {
+            x: 136
+            y: 603
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 135
+              y: 592
+            }
+            vertices {
+              x: 148
+              y: 591
+            }
+            vertices {
+              x: 149
+              y: 602
+            }
+            vertices {
+              x: 136
+              y: 603
+            }
+          }
+          text: "と"
+          confidence: 0.962738812
+        }
+        confidence: 0.962738812
+      }
+      confidence: 0.973376155
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 104
+          y: 514
+        }
+        vertices {
+          x: 118
+          y: 513
+        }
+        vertices {
+          x: 126
+          y: 594
+        }
+        vertices {
+          x: 112
+          y: 596
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 105
+            y: 514
+          }
+          vertices {
+            x: 118
+            y: 513
+          }
+          vertices {
+            x: 120
+            y: 531
+          }
+          vertices {
+            x: 107
+            y: 532
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 105
+              y: 514
+            }
+            vertices {
+              x: 118
+              y: 513
+            }
+            vertices {
+              x: 120
+              y: 531
+            }
+            vertices {
+              x: 107
+              y: 532
+            }
+          }
+          text: "痔"
+          confidence: 0.192095503
+        }
+        confidence: 0.192095503
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 107
+            y: 533
+          }
+          vertices {
+            x: 120
+            y: 532
+          }
+          vertices {
+            x: 121
+            y: 542
+          }
+          vertices {
+            x: 108
+            y: 543
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 107
+              y: 533
+            }
+            vertices {
+              x: 120
+              y: 532
+            }
+            vertices {
+              x: 121
+              y: 542
+            }
+            vertices {
+              x: 108
+              y: 543
+            }
+          }
+          text: "に"
+          confidence: 0.286654413
+        }
+        confidence: 0.286654413
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 108
+            y: 547
+          }
+          vertices {
+            x: 121
+            y: 546
+          }
+          vertices {
+            x: 124
+            y: 576
+          }
+          vertices {
+            x: 111
+            y: 577
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 108
+              y: 547
+            }
+            vertices {
+              x: 121
+              y: 546
+            }
+            vertices {
+              x: 123
+              y: 563
+            }
+            vertices {
+              x: 110
+              y: 564
+            }
+          }
+          text: "買"
+          confidence: 0.204307675
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 110
+              y: 566
+            }
+            vertices {
+              x: 123
+              y: 565
+            }
+            vertices {
+              x: 124
+              y: 576
+            }
+            vertices {
+              x: 111
+              y: 577
+            }
+          }
+          text: "る"
+          confidence: 0.393203944
+        }
+        confidence: 0.298755825
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 111
+            y: 582
+          }
+          vertices {
+            x: 125
+            y: 581
+          }
+          vertices {
+            x: 126
+            y: 595
+          }
+          vertices {
+            x: 112
+            y: 596
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 111
+              y: 582
+            }
+            vertices {
+              x: 124
+              y: 581
+            }
+            vertices {
+              x: 125
+              y: 592
+            }
+            vertices {
+              x: 112
+              y: 593
+            }
+          }
+          text: "･"
+          confidence: 0.171647236
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 112
+              y: 586
+            }
+            vertices {
+              x: 125
+              y: 585
+            }
+            vertices {
+              x: 126
+              y: 595
+            }
+            vertices {
+              x: 113
+              y: 596
+            }
+          }
+          text: "･"
+          confidence: 0.149832368
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 112
+              y: 589
+            }
+            vertices {
+              x: 125
+              y: 588
+            }
+            vertices {
+              x: 126
+              y: 595
+            }
+            vertices {
+              x: 113
+              y: 596
+            }
+          }
+          text: "･"
+          confidence: 0.130951449
+        }
+        confidence: 0.150810346
+      }
+      confidence: 0.218384653
+    }
+    block_type: TEXT
+    confidence: 0.536847353
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 119
+        y: 597
+      }
+      vertices {
+        x: 120
+        y: 606
+      }
+      vertices {
+        x: 116
+        y: 606
+      }
+      vertices {
+        x: 115
+        y: 598
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 119
+          y: 597
+        }
+        vertices {
+          x: 120
+          y: 606
+        }
+        vertices {
+          x: 116
+          y: 606
+        }
+        vertices {
+          x: 115
+          y: 598
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 119
+            y: 597
+          }
+          vertices {
+            x: 120
+            y: 606
+          }
+          vertices {
+            x: 116
+            y: 606
+          }
+          vertices {
+            x: 115
+            y: 598
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 119
+              y: 597
+            }
+            vertices {
+              x: 120
+              y: 606
+            }
+            vertices {
+              x: 116
+              y: 606
+            }
+            vertices {
+              x: 115
+              y: 598
+            }
+          }
+          text: "と"
+          confidence: 0.921677887
+        }
+        confidence: 0.921677887
+      }
+      confidence: 0.921677887
+    }
+    block_type: TEXT
+    confidence: 0.921677887
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 44
+        y: 578
+      }
+      vertices {
+        x: 59
+        y: 575
+      }
+      vertices {
+        x: 69
+        y: 632
+      }
+      vertices {
+        x: 54
+        y: 635
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 44
+          y: 578
+        }
+        vertices {
+          x: 59
+          y: 575
+        }
+        vertices {
+          x: 69
+          y: 632
+        }
+        vertices {
+          x: 54
+          y: 635
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 44
+            y: 578
+          }
+          vertices {
+            x: 59
+            y: 575
+          }
+          vertices {
+            x: 62
+            y: 592
+          }
+          vertices {
+            x: 47
+            y: 595
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 44
+              y: 578
+            }
+            vertices {
+              x: 59
+              y: 575
+            }
+            vertices {
+              x: 62
+              y: 592
+            }
+            vertices {
+              x: 47
+              y: 595
+            }
+          }
+          text: "嘘"
+          confidence: 0.314233661
+        }
+        confidence: 0.314233661
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 47
+            y: 595
+          }
+          vertices {
+            x: 62
+            y: 592
+          }
+          vertices {
+            x: 64
+            y: 604
+          }
+          vertices {
+            x: 49
+            y: 607
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 47
+              y: 595
+            }
+            vertices {
+              x: 62
+              y: 592
+            }
+            vertices {
+              x: 64
+              y: 604
+            }
+            vertices {
+              x: 49
+              y: 607
+            }
+          }
+          text: "だ"
+          confidence: 0.278719127
+        }
+        confidence: 0.278719127
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 49
+            y: 606
+          }
+          vertices {
+            x: 64
+            y: 603
+          }
+          vertices {
+            x: 67
+            y: 620
+          }
+          vertices {
+            x: 52
+            y: 623
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 49
+              y: 606
+            }
+            vertices {
+              x: 64
+              y: 603
+            }
+            vertices {
+              x: 65
+              y: 612
+            }
+            vertices {
+              x: 51
+              y: 615
+            }
+          }
+          text: "け"
+          confidence: 0.422437608
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 50
+              y: 613
+            }
+            vertices {
+              x: 65
+              y: 610
+            }
+            vertices {
+              x: 67
+              y: 620
+            }
+            vertices {
+              x: 52
+              y: 623
+            }
+          }
+          text: "ど"
+          confidence: 0.696767
+        }
+        confidence: 0.559602261
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 52
+            y: 624
+          }
+          vertices {
+            x: 67
+            y: 621
+          }
+          vertices {
+            x: 69
+            y: 632
+          }
+          vertices {
+            x: 54
+            y: 635
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 52
+              y: 624
+            }
+            vertices {
+              x: 67
+              y: 621
+            }
+            vertices {
+              x: 69
+              y: 632
+            }
+            vertices {
+              x: 54
+              y: 635
+            }
+          }
+          text: "ね"
+          confidence: 0.632812858
+        }
+        confidence: 0.632812858
+      }
+      confidence: 0.468994051
+    }
+    block_type: TEXT
+    confidence: 0.468994051
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 389
+        y: 675
+      }
+      vertices {
+        x: 479
+        y: 676
+      }
+      vertices {
+        x: 479
+        y: 697
+      }
+      vertices {
+        x: 389
+        y: 696
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 417
+          y: 676
+        }
+        vertices {
+          x: 464
+          y: 676
+        }
+        vertices {
+          x: 464
+          y: 686
+        }
+        vertices {
+          x: 417
+          y: 686
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 417
+            y: 676
+          }
+          vertices {
+            x: 464
+            y: 676
+          }
+          vertices {
+            x: 464
+            y: 686
+          }
+          vertices {
+            x: 417
+            y: 686
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 417
+              y: 676
+            }
+            vertices {
+              x: 427
+              y: 676
+            }
+            vertices {
+              x: 427
+              y: 686
+            }
+            vertices {
+              x: 417
+              y: 686
+            }
+          }
+          text: "m"
+          confidence: 0.955414057
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 429
+              y: 676
+            }
+            vertices {
+              x: 436
+              y: 676
+            }
+            vertices {
+              x: 436
+              y: 686
+            }
+            vertices {
+              x: 429
+              y: 686
+            }
+          }
+          text: "a"
+          confidence: 0.526632667
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 439
+              y: 676
+            }
+            vertices {
+              x: 445
+              y: 676
+            }
+            vertices {
+              x: 445
+              y: 686
+            }
+            vertices {
+              x: 439
+              y: 686
+            }
+          }
+          text: "n"
+          confidence: 0.97089833
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 447
+              y: 676
+            }
+            vertices {
+              x: 455
+              y: 676
+            }
+            vertices {
+              x: 455
+              y: 686
+            }
+            vertices {
+              x: 447
+              y: 686
+            }
+          }
+          text: "g"
+          confidence: 0.731589615
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 457
+              y: 676
+            }
+            vertices {
+              x: 464
+              y: 676
+            }
+            vertices {
+              x: 464
+              y: 686
+            }
+            vertices {
+              x: 457
+              y: 686
+            }
+          }
+          text: "a"
+          confidence: 0.938626349
+        }
+        confidence: 0.824632227
+      }
+      confidence: 0.824632227
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 389
+          y: 682
+        }
+        vertices {
+          x: 479
+          y: 684
+        }
+        vertices {
+          x: 479
+          y: 697
+        }
+        vertices {
+          x: 389
+          y: 695
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 389
+            y: 683
+          }
+          vertices {
+            x: 402
+            y: 683
+          }
+          vertices {
+            x: 402
+            y: 695
+          }
+          vertices {
+            x: 389
+            y: 695
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: SPACE
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 389
+              y: 683
+            }
+            vertices {
+              x: 402
+              y: 683
+            }
+            vertices {
+              x: 402
+              y: 695
+            }
+            vertices {
+              x: 389
+              y: 695
+            }
+          }
+          text: "M"
+          confidence: 0.884584844
+        }
+        confidence: 0.884584844
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "en"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 416
+            y: 683
+          }
+          vertices {
+            x: 479
+            y: 684
+          }
+          vertices {
+            x: 479
+            y: 696
+          }
+          vertices {
+            x: 416
+            y: 695
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 416
+              y: 683
+            }
+            vertices {
+              x: 421
+              y: 683
+            }
+            vertices {
+              x: 421
+              y: 695
+            }
+            vertices {
+              x: 416
+              y: 695
+            }
+          }
+          text: "r"
+          confidence: 0.957053542
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 422
+              y: 683
+            }
+            vertices {
+              x: 429
+              y: 683
+            }
+            vertices {
+              x: 429
+              y: 695
+            }
+            vertices {
+              x: 422
+              y: 695
+            }
+          }
+          text: "e"
+          confidence: 0.980629385
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 429
+              y: 683
+            }
+            vertices {
+              x: 437
+              y: 683
+            }
+            vertices {
+              x: 437
+              y: 695
+            }
+            vertices {
+              x: 429
+              y: 695
+            }
+          }
+          text: "a"
+          confidence: 0.953399658
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 439
+              y: 684
+            }
+            vertices {
+              x: 446
+              y: 684
+            }
+            vertices {
+              x: 446
+              y: 696
+            }
+            vertices {
+              x: 439
+              y: 696
+            }
+          }
+          text: "d"
+          confidence: 0.966632485
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 448
+              y: 684
+            }
+            vertices {
+              x: 455
+              y: 684
+            }
+            vertices {
+              x: 455
+              y: 696
+            }
+            vertices {
+              x: 448
+              y: 696
+            }
+          }
+          text: "e"
+          confidence: 0.665534
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 456
+              y: 684
+            }
+            vertices {
+              x: 460
+              y: 684
+            }
+            vertices {
+              x: 460
+              y: 696
+            }
+            vertices {
+              x: 456
+              y: 696
+            }
+          }
+          text: "r"
+          confidence: 0.938805103
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 461
+              y: 684
+            }
+            vertices {
+              x: 464
+              y: 684
+            }
+            vertices {
+              x: 464
+              y: 696
+            }
+            vertices {
+              x: 461
+              y: 696
+            }
+          }
+          text: "."
+          confidence: 0.882632613
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 465
+              y: 684
+            }
+            vertices {
+              x: 468
+              y: 684
+            }
+            vertices {
+              x: 468
+              y: 696
+            }
+            vertices {
+              x: 465
+              y: 696
+            }
+          }
+          text: "t"
+          confidence: 0.962612092
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 470
+              y: 684
+            }
+            vertices {
+              x: 479
+              y: 684
+            }
+            vertices {
+              x: 479
+              y: 696
+            }
+            vertices {
+              x: 470
+              y: 696
+            }
+          }
+          text: "o"
+          confidence: 0.800413668
+        }
+        confidence: 0.900857
+      }
+      confidence: 0.899229765
+    }
+    block_type: TEXT
+    confidence: 0.874363899
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 337
+        y: 642
+      }
+      vertices {
+        x: 361
+        y: 642
+      }
+      vertices {
+        x: 361
+        y: 692
+      }
+      vertices {
+        x: 337
+        y: 692
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 354
+          y: 643
+        }
+        vertices {
+          x: 361
+          y: 643
+        }
+        vertices {
+          x: 361
+          y: 682
+        }
+        vertices {
+          x: 354
+          y: 682
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 354
+            y: 643
+          }
+          vertices {
+            x: 361
+            y: 643
+          }
+          vertices {
+            x: 361
+            y: 682
+          }
+          vertices {
+            x: 354
+            y: 682
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 354
+              y: 643
+            }
+            vertices {
+              x: 361
+              y: 643
+            }
+            vertices {
+              x: 361
+              y: 651
+            }
+            vertices {
+              x: 354
+              y: 651
+            }
+          }
+          text: "そ"
+          confidence: 0.982682467
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 354
+              y: 655
+            }
+            vertices {
+              x: 361
+              y: 655
+            }
+            vertices {
+              x: 361
+              y: 662
+            }
+            vertices {
+              x: 354
+              y: 662
+            }
+          }
+          text: "の"
+          confidence: 0.99350673
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 354
+              y: 665
+            }
+            vertices {
+              x: 361
+              y: 665
+            }
+            vertices {
+              x: 361
+              y: 672
+            }
+            vertices {
+              x: 354
+              y: 672
+            }
+          }
+          text: "う"
+          confidence: 0.991100311
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 354
+              y: 675
+            }
+            vertices {
+              x: 361
+              y: 675
+            }
+            vertices {
+              x: 361
+              y: 682
+            }
+            vertices {
+              x: 354
+              y: 682
+            }
+          }
+          text: "ち"
+          confidence: 0.974728405
+        }
+        confidence: 0.985504508
+      }
+      confidence: 0.985504508
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 337
+          y: 642
+        }
+        vertices {
+          x: 345
+          y: 642
+        }
+        vertices {
+          x: 345
+          y: 692
+        }
+        vertices {
+          x: 337
+          y: 692
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 337
+            y: 642
+          }
+          vertices {
+            x: 345
+            y: 642
+          }
+          vertices {
+            x: 345
+            y: 652
+          }
+          vertices {
+            x: 337
+            y: 652
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 337
+              y: 642
+            }
+            vertices {
+              x: 345
+              y: 642
+            }
+            vertices {
+              x: 345
+              y: 652
+            }
+            vertices {
+              x: 337
+              y: 652
+            }
+          }
+          text: "痔"
+          confidence: 0.779150248
+        }
+        confidence: 0.779150248
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 337
+            y: 655
+          }
+          vertices {
+            x: 345
+            y: 655
+          }
+          vertices {
+            x: 345
+            y: 661
+          }
+          vertices {
+            x: 337
+            y: 661
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 337
+              y: 655
+            }
+            vertices {
+              x: 345
+              y: 655
+            }
+            vertices {
+              x: 345
+              y: 661
+            }
+            vertices {
+              x: 337
+              y: 661
+            }
+          }
+          text: "に"
+          confidence: 0.937485456
+        }
+        confidence: 0.937485456
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 337
+            y: 664
+          }
+          vertices {
+            x: 345
+            y: 664
+          }
+          vertices {
+            x: 345
+            y: 682
+          }
+          vertices {
+            x: 337
+            y: 682
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 337
+              y: 664
+            }
+            vertices {
+              x: 345
+              y: 664
+            }
+            vertices {
+              x: 345
+              y: 673
+            }
+            vertices {
+              x: 337
+              y: 673
+            }
+          }
+          text: "罹"
+          confidence: 0.694318354
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 337
+              y: 675
+            }
+            vertices {
+              x: 345
+              y: 675
+            }
+            vertices {
+              x: 345
+              y: 682
+            }
+            vertices {
+              x: 337
+              y: 682
+            }
+          }
+          text: "る"
+          confidence: 0.967798352
+        }
+        confidence: 0.831058383
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 337
+            y: 686
+          }
+          vertices {
+            x: 345
+            y: 686
+          }
+          vertices {
+            x: 345
+            y: 692
+          }
+          vertices {
+            x: 337
+            y: 692
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 337
+              y: 686
+            }
+            vertices {
+              x: 345
+              y: 686
+            }
+            vertices {
+              x: 345
+              y: 692
+            }
+            vertices {
+              x: 337
+              y: 692
+            }
+          }
+          text: "よ"
+          confidence: 0.953411043
+        }
+        confidence: 0.953411043
+      }
+      confidence: 0.866432667
+    }
+    block_type: TEXT
+    confidence: 0.919353485
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 349
+        y: 674
+      }
+      vertices {
+        x: 349
+        y: 665
+      }
+      vertices {
+        x: 353
+        y: 665
+      }
+      vertices {
+        x: 353
+        y: 674
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 349
+          y: 674
+        }
+        vertices {
+          x: 349
+          y: 665
+        }
+        vertices {
+          x: 353
+          y: 665
+        }
+        vertices {
+          x: 353
+          y: 674
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 349
+            y: 674
+          }
+          vertices {
+            x: 349
+            y: 666
+          }
+          vertices {
+            x: 353
+            y: 666
+          }
+          vertices {
+            x: 353
+            y: 674
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 349
+              y: 674
+            }
+            vertices {
+              x: 349
+              y: 666
+            }
+            vertices {
+              x: 353
+              y: 666
+            }
+            vertices {
+              x: 353
+              y: 674
+            }
+          }
+          text: "["
+          confidence: 0.46913904
+        }
+        confidence: 0.46913904
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 349
+            y: 674
+          }
+          vertices {
+            x: 349
+            y: 666
+          }
+          vertices {
+            x: 353
+            y: 666
+          }
+          vertices {
+            x: 353
+            y: 674
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 349
+              y: 674
+            }
+            vertices {
+              x: 349
+              y: 666
+            }
+            vertices {
+              x: 353
+              y: 666
+            }
+            vertices {
+              x: 353
+              y: 674
+            }
+          }
+          text: "チ"
+          confidence: 0.314629048
+        }
+        confidence: 0.314629048
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 349
+            y: 670
+          }
+          vertices {
+            x: 349
+            y: 665
+          }
+          vertices {
+            x: 353
+            y: 665
+          }
+          vertices {
+            x: 353
+            y: 670
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 349
+              y: 670
+            }
+            vertices {
+              x: 349
+              y: 665
+            }
+            vertices {
+              x: 353
+              y: 665
+            }
+            vertices {
+              x: 353
+              y: 670
+            }
+          }
+          text: "号"
+          confidence: 0.5197
+        }
+        confidence: 0.5197
+      }
+      confidence: 0.434489369
+    }
+    block_type: TEXT
+    confidence: 0.434489369
+  }
+  blocks {
+    bounding_box {
+      vertices {
+        x: 184
+        y: 622
+      }
+      vertices {
+        x: 210
+        y: 622
+      }
+      vertices {
+        x: 211
+        y: 674
+      }
+      vertices {
+        x: 185
+        y: 674
+      }
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 202
+          y: 622
+        }
+        vertices {
+          x: 210
+          y: 622
+        }
+        vertices {
+          x: 211
+          y: 664
+        }
+        vertices {
+          x: 203
+          y: 664
+        }
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 203
+            y: 622
+          }
+          vertices {
+            x: 210
+            y: 622
+          }
+          vertices {
+            x: 210
+            y: 642
+          }
+          vertices {
+            x: 203
+            y: 642
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 203
+              y: 622
+            }
+            vertices {
+              x: 210
+              y: 622
+            }
+            vertices {
+              x: 210
+              y: 629
+            }
+            vertices {
+              x: 203
+              y: 629
+            }
+          }
+          text: "メ"
+          confidence: 0.967712939
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 203
+              y: 633
+            }
+            vertices {
+              x: 210
+              y: 633
+            }
+            vertices {
+              x: 210
+              y: 642
+            }
+            vertices {
+              x: 203
+              y: 642
+            }
+          }
+          text: "モ"
+          confidence: 0.987479508
+        }
+        confidence: 0.977596223
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 203
+            y: 644
+          }
+          vertices {
+            x: 210
+            y: 644
+          }
+          vertices {
+            x: 210
+            y: 653
+          }
+          vertices {
+            x: 203
+            y: 653
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 203
+              y: 644
+            }
+            vertices {
+              x: 210
+              y: 644
+            }
+            vertices {
+              x: 210
+              y: 653
+            }
+            vertices {
+              x: 203
+              y: 653
+            }
+          }
+          text: "し"
+          confidence: 0.989678085
+        }
+        confidence: 0.989678085
+      }
+      words {
+        bounding_box {
+          vertices {
+            x: 203
+            y: 656
+          }
+          vertices {
+            x: 210
+            y: 656
+          }
+          vertices {
+            x: 210
+            y: 664
+          }
+          vertices {
+            x: 203
+            y: 664
+          }
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 203
+              y: 656
+            }
+            vertices {
+              x: 210
+              y: 656
+            }
+            vertices {
+              x: 210
+              y: 664
+            }
+            vertices {
+              x: 203
+              y: 664
+            }
+          }
+          text: "て"
+          confidence: 0.963486195
+        }
+        confidence: 0.963486195
+      }
+      confidence: 0.977089167
+    }
+    paragraphs {
+      bounding_box {
+        vertices {
+          x: 184
+          y: 622
+        }
+        vertices {
+          x: 192
+          y: 622
+        }
+        vertices {
+          x: 193
+          y: 674
+        }
+        vertices {
+          x: 185
+          y: 674
+        }
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 185
+            y: 622
+          }
+          vertices {
+            x: 192
+            y: 622
+          }
+          vertices {
+            x: 192
+            y: 644
+          }
+          vertices {
+            x: 185
+            y: 644
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 185
+              y: 622
+            }
+            vertices {
+              x: 192
+              y: 622
+            }
+            vertices {
+              x: 192
+              y: 630
+            }
+            vertices {
+              x: 185
+              y: 630
+            }
+          }
+          text: "お"
+          confidence: 0.582676768
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 185
+              y: 636
+            }
+            vertices {
+              x: 192
+              y: 636
+            }
+            vertices {
+              x: 192
+              y: 644
+            }
+            vertices {
+              x: 185
+              y: 644
+            }
+          }
+          text: "く"
+          confidence: 0.771074116
+        }
+        confidence: 0.676875472
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 185
+            y: 645
+          }
+          vertices {
+            x: 192
+            y: 645
+          }
+          vertices {
+            x: 192
+            y: 654
+          }
+          vertices {
+            x: 185
+            y: 654
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 185
+              y: 645
+            }
+            vertices {
+              x: 192
+              y: 645
+            }
+            vertices {
+              x: 192
+              y: 654
+            }
+            vertices {
+              x: 185
+              y: 654
+            }
+          }
+          text: "と"
+          confidence: 0.939080596
+        }
+        confidence: 0.939080596
+      }
+      words {
+        property {
+          detected_languages {
+            language_code: "ja"
+            confidence: 1
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 185
+            y: 657
+          }
+          vertices {
+            x: 192
+            y: 657
+          }
+          vertices {
+            x: 192
+            y: 674
+          }
+          vertices {
+            x: 185
+            y: 674
+          }
+        }
+        symbols {
+          bounding_box {
+            vertices {
+              x: 185
+              y: 657
+            }
+            vertices {
+              x: 192
+              y: 657
+            }
+            vertices {
+              x: 192
+              y: 663
+            }
+            vertices {
+              x: 185
+              y: 663
+            }
+          }
+          text: "い"
+          confidence: 0.989319623
+        }
+        symbols {
+          property {
+            detected_break {
+              type_: LINE_BREAK
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 185
+              y: 670
+            }
+            vertices {
+              x: 192
+              y: 670
+            }
+            vertices {
+              x: 192
+              y: 674
+            }
+            vertices {
+              x: 185
+              y: 674
+            }
+          }
+          text: "い"
+          confidence: 0.983677685
+        }
+        confidence: 0.986498654
+      }
+      confidence: 0.853165746
+    }
+    block_type: TEXT
+    confidence: 0.908242822
+  }
+  confidence: 0.721393585
+}
+text: "この\nほうたいむだづか\n包帯無駄遣い装置!\nだん\n・国木田君\n******\n今の呼称は\nどうかと思う\nちょっと\n傷ついた\n4 $1.\nこの非常事態に\n何をとろとろ\n歩いて居るのだ!\nはや\n疾く来い!\n46\nPA\n朝から元気だなあ\nあんまり怒鳴ると\n悪い体内物質が\n分泌されて\n44 (たいないよっし\nよんひつ\n何本当か?!?!?!?\nギン\n怒鳴りすぎると\n痔に買る･･･\nと\n嘘だけどね\nmanga\nM reader.to\nそのうち\n痔に罹るよ\n[チ号\nメモして\nおくといい"
