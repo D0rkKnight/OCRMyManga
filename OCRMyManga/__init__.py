@@ -249,9 +249,11 @@ def inputFileToPdf(input_file, output_file, alpha=0.0):
         pdf_merger.write(fout)
 
 
-# Main function
 verbose = False
-if __name__ == "__main__":
+
+
+# Main function
+def main():
     parser = argparse.ArgumentParser(description='OCRs Manga files')
 
     # Argument for input file/dir, batch processing flap, output file/dir, and text alpha
@@ -293,6 +295,10 @@ if __name__ == "__main__":
             sys.exit(1)
 
         os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = creds
+
+    if (input == None):
+        print("Input file/directory not specified")
+        sys.exit(1)
 
     if (output == None):
 
@@ -355,3 +361,7 @@ if __name__ == "__main__":
         inputFileToPdf(input, output, alpha)
 
     print("Task completed")
+
+
+if (__name__ == "__main__"):
+    main()

@@ -53,3 +53,7 @@ Support for other file types may be added in the future.
 `ocrmymanga input.jpg -o output.pdf -c creds.json`
 
 (-c will default to credentials.json)
+
+### Github Link
+
+https://github.com/D0rkKnight/OCRMyManga

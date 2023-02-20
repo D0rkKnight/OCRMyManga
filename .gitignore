@@ -8,3 +8,7 @@ keys*.json
 # out/*
 # resources/*
 legacy
+
+build
+dist
+OCRMyManga.egg-info
