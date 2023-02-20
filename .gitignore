@@ -1,7 +1,7 @@
 
 ocrmymanga*.json
 env
-credentials.json
+cred*.json
 ```
 
 out/BSD
