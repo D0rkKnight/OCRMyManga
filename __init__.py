@@ -3,7 +3,6 @@ from zipfile import ZipFile
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 from reportlab.pdfbase import pdfmetrics
 import reportlab.rl_config
-import math
 from PyPDF2 import PdfMerger
 from reportlab.lib.utils import ImageReader
 from reportlab.pdfgen import canvas
@@ -286,9 +285,9 @@ if __name__ == "__main__":
     if (os.environ.get('GOOGLE_APPLICATION_CREDENTIALS') == None):
         if not os.path.exists(creds):
             print(
-                "Credentials file not found. Please place {creds} in your working directory or specify the path to the credentials file with the -c flag")
+                f"Credentials file not found. Please place {creds} in your working directory or specify the path to the credentials file with the -c flag")
             print("This tool uses Google Cloud Vision API")
-            print("See https://cloud.google.com/vision/docs/libraries#client-libraries-install-python for more info")
+            print("See https://cloud.google.com/vision/docs/libraries#client-libraries-install-python for info on acquiring your credentials file")
             print("Alternatively, you can set the environment variable GOOGLE_APPLICATION_CREDENTIALS to the path of your credentials file.")
 
             sys.exit(1)
