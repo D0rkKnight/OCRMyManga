@@ -289,7 +289,8 @@ def main():
             print(
                 f"Credentials file not found. Please place {creds} in your working directory or specify the path to the credentials file with the -c flag")
             print("This tool uses Google Cloud Vision API")
-            print("See https://cloud.google.com/vision/docs/libraries#client-libraries-install-python for info on acquiring your credentials file")
+            print(
+                "See https://cloud.google.com/vision/docs/setup for info on acquiring your credentials file")
             print("Alternatively, you can set the environment variable GOOGLE_APPLICATION_CREDENTIALS to the path of your credentials file.")
 
             sys.exit(1)

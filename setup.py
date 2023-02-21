@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ocrmymanga',
-    version='0.16',
+    version='0.17',
     description='A handy tool for OCRing manga',
     packages=['OCRMyManga'],
     install_requires=[

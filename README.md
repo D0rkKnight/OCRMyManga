@@ -8,10 +8,7 @@ OCRMyManga is written in Python. It is still in development, so there may be bug
 
 ## Installation
 
-Get started by installing the Google Cloud Vision Python library by following these steps: https://cloud.google.com/vision/docs/libraries#client-libraries-install-python
-
-It's basically just this command:
-`pip install --upgrade google-cloud-vision`
+This tool REQUIRES a Google Cloud Vision API Key. Follow these instructions to get one: https://cloud.google.com/vision/docs/setup
 
 Then, install OCRMyManga from pip with the following command:
 `pip install ocrmymanga`
